@@ -1,0 +1,1501 @@
+treat.pair,site,disturbance.type,disturbed/control,ht,lad,lowCI,uppCI
+1,TNF Seca Floresta,drought,control,1,0,0,0
+1,TNF Seca Floresta,drought,control,2,0,0,0
+1,TNF Seca Floresta,drought,control,3,0.072147013,0.052560353,0.091733673
+1,TNF Seca Floresta,drought,control,4,0.403469037,0.310414533,0.496523542
+1,TNF Seca Floresta,drought,control,5,0.400102593,0.342327755,0.457877432
+1,TNF Seca Floresta,drought,control,6,0.529761822,0.41617363,0.643350014
+1,TNF Seca Floresta,drought,control,7,0.523717547,0.420060425,0.627374668
+1,TNF Seca Floresta,drought,control,8,0.441534121,0.349944171,0.533124071
+1,TNF Seca Floresta,drought,control,9,0.417535052,0.314274504,0.5207956
+1,TNF Seca Floresta,drought,control,10,0.400579962,0.292764688,0.508395235
+1,TNF Seca Floresta,drought,control,11,0.31423285,0.218597016,0.409868683
+1,TNF Seca Floresta,drought,control,12,0.22518577,0.137830992,0.312540547
+1,TNF Seca Floresta,drought,control,13,0.193910199,0.122744233,0.265076166
+1,TNF Seca Floresta,drought,control,14,0.184449171,0.11511946,0.253778882
+1,TNF Seca Floresta,drought,control,15,0.163281297,0.096648847,0.229913747
+1,TNF Seca Floresta,drought,control,16,0.12534912,0.060744479,0.18995376
+1,TNF Seca Floresta,drought,control,17,0.063535331,0.026739741,0.100330921
+1,TNF Seca Floresta,drought,control,18,0.091801951,0.042803051,0.14080085
+1,TNF Seca Floresta,drought,control,19,0.08060284,0.033410598,0.127795082
+1,TNF Seca Floresta,drought,control,20,0.057996421,0.022618522,0.093374319
+1,TNF Seca Floresta,drought,control,21,0.060354832,0.02866301,0.092046655
+1,TNF Seca Floresta,drought,control,22,0.058984216,0.024460189,0.093508242
+1,TNF Seca Floresta,drought,control,23,0.084478142,0.044063022,0.124893262
+1,TNF Seca Floresta,drought,control,24,0.070348784,0.027098197,0.11359937
+1,TNF Seca Floresta,drought,control,25,0.121950437,0.060511057,0.183389817
+1,TNF Seca Floresta,drought,control,26,0.107070399,0.056238129,0.157902669
+1,TNF Seca Floresta,drought,control,27,0.131640066,0.071168976,0.192111157
+1,TNF Seca Floresta,drought,control,28,0.043033961,0.013615992,0.07245193
+1,TNF Seca Floresta,drought,control,29,0.036646587,-0.003655859,0.076949033
+1,TNF Seca Floresta,drought,control,30,0.035297968,0.001867784,0.068728152
+1,TNF Seca Floresta,drought,control,31,0.023801427,-0.000230942,0.047833796
+1,TNF Seca Floresta,drought,control,32,0.037317701,0.003775006,0.070860395
+1,TNF Seca Floresta,drought,control,33,0.03543231,0.001431984,0.069432636
+1,TNF Seca Floresta,drought,control,34,0.017817469,0.00175415,0.033880788
+1,TNF Seca Floresta,drought,control,35,0.018690859,-0.000403758,0.037785476
+1,TNF Seca Floresta,drought,control,36,0.016701899,0.000873533,0.032530265
+1,TNF Seca Floresta,drought,control,37,0.005509677,-0.001429123,0.012448478
+1,TNF Seca Floresta,drought,control,38,0.011510121,-0.00401112,0.027031363
+1,TNF Seca Floresta,drought,control,39,0.003704355,-0.003474306,0.010883015
+1,TNF Seca Floresta,drought,control,40,9.62E-05,-9.24E-05,0.000284752
+1,TNF Seca Floresta,drought,control,41,0.000690132,-0.000662527,0.002042792
+1,TNF Seca Floresta,drought,control,42,0.011161428,-0.010714971,0.033037827
+1,TNF Seca Floresta,drought,control,43,0.000889353,-0.000853778,0.002632483
+1,TNF Seca Floresta,drought,control,44,0,0,0
+1,TNF Seca Floresta,drought,control,45,0,0,0
+1,TNF Seca Floresta,drought,control,46,0,0,0
+1,TNF Seca Floresta,drought,control,47,0,0,0
+1,TNF Seca Floresta,drought,control,48,0,0,0
+1,TNF Seca Floresta,drought,control,49,0,0,0
+1,TNF Seca Floresta,drought,control,50,0,0,0
+1,TNF Seca Floresta,drought,control,51,0,0,0
+1,TNF Seca Floresta,drought,control,52,0,0,0
+1,TNF Seca Floresta,drought,control,53,0,0,0
+1,TNF Seca Floresta,drought,control,54,0,0,0
+1,TNF Seca Floresta,drought,control,55,0,0,0
+1,TNF Seca Floresta,drought,control,56,0,0,0
+1,TNF Seca Floresta,drought,control,57,0,0,0
+1,TNF Seca Floresta,drought,control,58,0,0,0
+1,TNF Seca Floresta,drought,control,59,0,0,0
+1,TNF Seca Floresta,drought,control,60,0,0,0
+1,TNF Seca Floresta,drought,disturbed,1,0,0,0
+1,TNF Seca Floresta,drought,disturbed,2,0,0,0
+1,TNF Seca Floresta,drought,disturbed,3,0.065424078,0.034085059,0.096763097
+1,TNF Seca Floresta,drought,disturbed,4,0.347181556,0.274907356,0.419455756
+1,TNF Seca Floresta,drought,disturbed,5,0.441201945,0.352999241,0.529404649
+1,TNF Seca Floresta,drought,disturbed,6,0.516399424,0.432931885,0.599866963
+1,TNF Seca Floresta,drought,disturbed,7,0.615103052,0.494881584,0.73532452
+1,TNF Seca Floresta,drought,disturbed,8,0.422017672,0.343620726,0.500414617
+1,TNF Seca Floresta,drought,disturbed,9,0.435985322,0.35240032,0.519570324
+1,TNF Seca Floresta,drought,disturbed,10,0.357088742,0.253697222,0.460480263
+1,TNF Seca Floresta,drought,disturbed,11,0.322938249,0.238335322,0.407541175
+1,TNF Seca Floresta,drought,disturbed,12,0.255722275,0.165337348,0.346107202
+1,TNF Seca Floresta,drought,disturbed,13,0.257199134,0.163883857,0.35051441
+1,TNF Seca Floresta,drought,disturbed,14,0.223294698,0.11626542,0.330323975
+1,TNF Seca Floresta,drought,disturbed,15,0.159119945,0.07985264,0.238387249
+1,TNF Seca Floresta,drought,disturbed,16,0.165393559,0.064834106,0.265953011
+1,TNF Seca Floresta,drought,disturbed,17,0.139086922,0.073950892,0.204222952
+1,TNF Seca Floresta,drought,disturbed,18,0.148043522,0.077112504,0.21897454
+1,TNF Seca Floresta,drought,disturbed,19,0.088298057,0.046938448,0.129657665
+1,TNF Seca Floresta,drought,disturbed,20,0.086723524,0.04224302,0.131204029
+1,TNF Seca Floresta,drought,disturbed,21,0.102837359,0.053033817,0.152640902
+1,TNF Seca Floresta,drought,disturbed,22,0.057824185,0.017197616,0.098450754
+1,TNF Seca Floresta,drought,disturbed,23,0.04784398,0.011573861,0.084114098
+1,TNF Seca Floresta,drought,disturbed,24,0.0421316,0.010683953,0.073579247
+1,TNF Seca Floresta,drought,disturbed,25,0.038788274,0.012814836,0.064761711
+1,TNF Seca Floresta,drought,disturbed,26,0.015669187,0.004209802,0.027128572
+1,TNF Seca Floresta,drought,disturbed,27,0.047661152,0.014749393,0.080572911
+1,TNF Seca Floresta,drought,disturbed,28,0.057225232,0.007831087,0.106619377
+1,TNF Seca Floresta,drought,disturbed,29,0.035073265,-0.001448727,0.071595256
+1,TNF Seca Floresta,drought,disturbed,30,0.06149745,0.013096986,0.109897914
+1,TNF Seca Floresta,drought,disturbed,31,0.022372545,-0.000694138,0.045439228
+1,TNF Seca Floresta,drought,disturbed,32,0.027950654,0.00229627,0.053605038
+1,TNF Seca Floresta,drought,disturbed,33,0.026734862,0.007756877,0.045712847
+1,TNF Seca Floresta,drought,disturbed,34,0.027038419,0.00655717,0.047519669
+1,TNF Seca Floresta,drought,disturbed,35,0.007301494,-0.004375403,0.018978392
+1,TNF Seca Floresta,drought,disturbed,36,0.017050143,-0.007445041,0.041545326
+1,TNF Seca Floresta,drought,disturbed,37,0.002606626,-0.001449768,0.006663021
+1,TNF Seca Floresta,drought,disturbed,38,0.016179068,-0.011355637,0.043713772
+1,TNF Seca Floresta,drought,disturbed,39,0.001037583,-0.00099608,0.003071247
+1,TNF Seca Floresta,drought,disturbed,40,0,0,0
+1,TNF Seca Floresta,drought,disturbed,41,0,0,0
+1,TNF Seca Floresta,drought,disturbed,42,0,0,0
+1,TNF Seca Floresta,drought,disturbed,43,0,0,0
+1,TNF Seca Floresta,drought,disturbed,44,0,0,0
+1,TNF Seca Floresta,drought,disturbed,45,0,0,0
+1,TNF Seca Floresta,drought,disturbed,46,0,0,0
+1,TNF Seca Floresta,drought,disturbed,47,0,0,0
+1,TNF Seca Floresta,drought,disturbed,48,0,0,0
+1,TNF Seca Floresta,drought,disturbed,49,0,0,0
+1,TNF Seca Floresta,drought,disturbed,50,0,0,0
+1,TNF Seca Floresta,drought,disturbed,51,0,0,0
+1,TNF Seca Floresta,drought,disturbed,52,0,0,0
+1,TNF Seca Floresta,drought,disturbed,53,0,0,0
+1,TNF Seca Floresta,drought,disturbed,54,0,0,0
+1,TNF Seca Floresta,drought,disturbed,55,0,0,0
+1,TNF Seca Floresta,drought,disturbed,56,0,0,0
+1,TNF Seca Floresta,drought,disturbed,57,0,0,0
+1,TNF Seca Floresta,drought,disturbed,58,0,0,0
+1,TNF Seca Floresta,drought,disturbed,59,0,0,0
+1,TNF Seca Floresta,drought,disturbed,60,0,0,0
+2,Caxiuanã,drought,control,1,0,0,0
+2,Caxiuanã,drought,control,2,0,0,0
+2,Caxiuanã,drought,control,3,0.254020641,0.191371961,0.31666932
+2,Caxiuanã,drought,control,4,0.442967953,0.349313014,0.536622892
+2,Caxiuanã,drought,control,5,0.28608798,0.231508565,0.340667394
+2,Caxiuanã,drought,control,6,0.248190104,0.185991551,0.310388656
+2,Caxiuanã,drought,control,7,0.238975037,0.183074243,0.294875832
+2,Caxiuanã,drought,control,8,0.189598112,0.147783009,0.231413214
+2,Caxiuanã,drought,control,9,0.181400502,0.124724388,0.238076616
+2,Caxiuanã,drought,control,10,0.162512637,0.10401289,0.221012384
+2,Caxiuanã,drought,control,11,0.188493855,0.125874752,0.251112957
+2,Caxiuanã,drought,control,12,0.142966461,0.09901611,0.186916812
+2,Caxiuanã,drought,control,13,0.146300332,0.092544267,0.200056398
+2,Caxiuanã,drought,control,14,0.173010097,0.126185209,0.219834986
+2,Caxiuanã,drought,control,15,0.198019446,0.134518691,0.261520201
+2,Caxiuanã,drought,control,16,0.202195716,0.141090029,0.263301403
+2,Caxiuanã,drought,control,17,0.180422963,0.13423953,0.226606396
+2,Caxiuanã,drought,control,18,0.196325732,0.129382966,0.263268499
+2,Caxiuanã,drought,control,19,0.21832588,0.148884454,0.287767305
+2,Caxiuanã,drought,control,20,0.224143713,0.14889198,0.299395447
+2,Caxiuanã,drought,control,21,0.196807829,0.133781832,0.259833825
+2,Caxiuanã,drought,control,22,0.225187257,0.168241429,0.282133085
+2,Caxiuanã,drought,control,23,0.194167564,0.134482113,0.253853016
+2,Caxiuanã,drought,control,24,0.149710774,0.098714593,0.200706954
+2,Caxiuanã,drought,control,25,0.088838729,0.053632078,0.12404538
+2,Caxiuanã,drought,control,26,0.090938524,0.050707816,0.131169232
+2,Caxiuanã,drought,control,27,0.082330964,0.041155157,0.123506771
+2,Caxiuanã,drought,control,28,0.085259108,0.0374863,0.133031916
+2,Caxiuanã,drought,control,29,0.054999751,0.01195374,0.098045762
+2,Caxiuanã,drought,control,30,0.035969009,0.006840776,0.065097242
+2,Caxiuanã,drought,control,31,0.064921302,0.029449697,0.100392906
+2,Caxiuanã,drought,control,32,0.057293988,0.0185512,0.096036777
+2,Caxiuanã,drought,control,33,0.057657242,0.013879459,0.101435025
+2,Caxiuanã,drought,control,34,0.035797036,-0.005492222,0.077086294
+2,Caxiuanã,drought,control,35,0.026128006,-8.55E-05,0.052341542
+2,Caxiuanã,drought,control,36,0.016828241,-0.004849617,0.038506098
+2,Caxiuanã,drought,control,37,0.015589099,-0.000650532,0.031828731
+2,Caxiuanã,drought,control,38,0.003757838,-0.001963771,0.009479447
+2,Caxiuanã,drought,control,39,0.003766128,-0.00087287,0.008405126
+2,Caxiuanã,drought,control,40,0.008845289,-0.003055877,0.020746455
+2,Caxiuanã,drought,control,41,0.0021417,-0.001510062,0.005793461
+2,Caxiuanã,drought,control,42,0.005475185,-0.003139199,0.01408957
+2,Caxiuanã,drought,control,43,0.004086179,-0.003401919,0.011574276
+2,Caxiuanã,drought,control,44,0.007447407,-0.004046826,0.01894164
+2,Caxiuanã,drought,control,45,0.008695714,-0.008347885,0.025739313
+2,Caxiuanã,drought,control,46,0.005716651,-0.005487985,0.016921286
+2,Caxiuanã,drought,control,47,0,0,0
+2,Caxiuanã,drought,control,48,0,0,0
+2,Caxiuanã,drought,control,49,0,0,0
+2,Caxiuanã,drought,control,50,0,0,0
+2,Caxiuanã,drought,control,51,0,0,0
+2,Caxiuanã,drought,control,52,0,0,0
+2,Caxiuanã,drought,control,53,0.005112134,-0.004907649,0.015131917
+2,Caxiuanã,drought,control,54,0.004579722,-0.004396533,0.013555977
+2,Caxiuanã,drought,control,55,0,0,0
+2,Caxiuanã,drought,control,56,0,0,0
+2,Caxiuanã,drought,control,57,0,0,0
+2,Caxiuanã,drought,control,58,0,0,0
+2,Caxiuanã,drought,control,59,0,0,0
+2,Caxiuanã,drought,control,60,0,0,0
+2,Caxiuanã,drought,disturbed,1,0,0,0
+2,Caxiuanã,drought,disturbed,2,0,0,0
+2,Caxiuanã,drought,disturbed,3,0.03976382,0.027523338,0.052004302
+2,Caxiuanã,drought,disturbed,4,0.106785287,0.081730487,0.131840087
+2,Caxiuanã,drought,disturbed,5,0.220363265,0.173825528,0.266901001
+2,Caxiuanã,drought,disturbed,6,0.2304305,0.185587525,0.275273474
+2,Caxiuanã,drought,disturbed,7,0.225366549,0.182949421,0.267783678
+2,Caxiuanã,drought,disturbed,8,0.206816465,0.162408136,0.251224794
+2,Caxiuanã,drought,disturbed,9,0.248880085,0.200500128,0.297260042
+2,Caxiuanã,drought,disturbed,10,0.224676378,0.182793254,0.266559503
+2,Caxiuanã,drought,disturbed,11,0.182889838,0.141123007,0.22465667
+2,Caxiuanã,drought,disturbed,12,0.205084683,0.167092405,0.24307696
+2,Caxiuanã,drought,disturbed,13,0.201935727,0.167388385,0.236483069
+2,Caxiuanã,drought,disturbed,14,0.231387059,0.189296792,0.273477327
+2,Caxiuanã,drought,disturbed,15,0.222258678,0.176809913,0.267707442
+2,Caxiuanã,drought,disturbed,16,0.222768419,0.181657782,0.263879056
+2,Caxiuanã,drought,disturbed,17,0.218126073,0.180978762,0.255273384
+2,Caxiuanã,drought,disturbed,18,0.273987703,0.227891673,0.320083733
+2,Caxiuanã,drought,disturbed,19,0.247760332,0.199741321,0.295779343
+2,Caxiuanã,drought,disturbed,20,0.218842044,0.168563134,0.269120955
+2,Caxiuanã,drought,disturbed,21,0.204655366,0.152979993,0.256330738
+2,Caxiuanã,drought,disturbed,22,0.169894532,0.12844685,0.211342215
+2,Caxiuanã,drought,disturbed,23,0.218550549,0.166502265,0.270598833
+2,Caxiuanã,drought,disturbed,24,0.132124925,0.096998435,0.167251415
+2,Caxiuanã,drought,disturbed,25,0.127755452,0.091671807,0.163839097
+2,Caxiuanã,drought,disturbed,26,0.097728785,0.062570418,0.132887151
+2,Caxiuanã,drought,disturbed,27,0.141733272,0.090863753,0.192602792
+2,Caxiuanã,drought,disturbed,28,0.092548813,0.064447757,0.12064987
+2,Caxiuanã,drought,disturbed,29,0.094276895,0.065262976,0.123290814
+2,Caxiuanã,drought,disturbed,30,0.078780309,0.040136633,0.117423985
+2,Caxiuanã,drought,disturbed,31,0.069201531,0.034953982,0.103449079
+2,Caxiuanã,drought,disturbed,32,0.03801598,0.019413526,0.056618434
+2,Caxiuanã,drought,disturbed,33,0.062990072,0.037879466,0.088100677
+2,Caxiuanã,drought,disturbed,34,0.049290986,0.026004547,0.072577426
+2,Caxiuanã,drought,disturbed,35,0.038138902,0.016842947,0.059434857
+2,Caxiuanã,drought,disturbed,36,0.039572733,0.018791911,0.060353554
+2,Caxiuanã,drought,disturbed,37,0.03427998,0.015103547,0.053456412
+2,Caxiuanã,drought,disturbed,38,0.017283179,0.005476053,0.029090306
+2,Caxiuanã,drought,disturbed,39,0.015281866,0.006988527,0.023575204
+2,Caxiuanã,drought,disturbed,40,0.018189925,0.003839688,0.032540161
+2,Caxiuanã,drought,disturbed,41,0.00991331,0.000972551,0.01885407
+2,Caxiuanã,drought,disturbed,42,0.003748713,6.44E-05,0.007432982
+2,Caxiuanã,drought,disturbed,43,0.004546148,-0.000444187,0.009536484
+2,Caxiuanã,drought,disturbed,44,0.002630531,-0.00083236,0.006093421
+2,Caxiuanã,drought,disturbed,45,9.55E-05,-7.50E-05,0.000266071
+2,Caxiuanã,drought,disturbed,46,0,0,0
+2,Caxiuanã,drought,disturbed,47,0,0,0
+2,Caxiuanã,drought,disturbed,48,0,0,0
+2,Caxiuanã,drought,disturbed,49,0,0,0
+2,Caxiuanã,drought,disturbed,50,0,0,0
+2,Caxiuanã,drought,disturbed,51,0,0,0
+2,Caxiuanã,drought,disturbed,52,0,0,0
+2,Caxiuanã,drought,disturbed,53,0,0,0
+2,Caxiuanã,drought,disturbed,54,0,0,0
+2,Caxiuanã,drought,disturbed,55,0,0,0
+2,Caxiuanã,drought,disturbed,56,0,0,0
+2,Caxiuanã,drought,disturbed,57,0,0,0
+2,Caxiuanã,drought,disturbed,58,0,0,0
+2,Caxiuanã,drought,disturbed,59,0,0,0
+2,Caxiuanã,drought,disturbed,60,0,0,0
+3,TNF K83,selective logging,control,1,0,0,0
+3,TNF K83,selective logging,control,2,0,0,0
+3,TNF K83,selective logging,control,3,0.006755215,0.000519724,0.012990706
+3,TNF K83,selective logging,control,4,0.181012304,0.106781703,0.255242905
+3,TNF K83,selective logging,control,5,0.323491128,0.262230897,0.38475136
+3,TNF K83,selective logging,control,6,0.319321948,0.209269062,0.429374834
+3,TNF K83,selective logging,control,7,0.192395225,0.109419731,0.275370719
+3,TNF K83,selective logging,control,8,0.24732063,0.152026252,0.342615009
+3,TNF K83,selective logging,control,9,0.269831225,0.159603712,0.380058738
+3,TNF K83,selective logging,control,10,0.296410095,0.133397839,0.459422351
+3,TNF K83,selective logging,control,11,0.299194233,0.223670876,0.37471759
+3,TNF K83,selective logging,control,12,0.245598048,0.159644657,0.33155144
+3,TNF K83,selective logging,control,13,0.270264551,0.15205928,0.388469823
+3,TNF K83,selective logging,control,14,0.255568488,0.144406667,0.36673031
+3,TNF K83,selective logging,control,15,0.300835,0.218111588,0.383558412
+3,TNF K83,selective logging,control,16,0.24589258,0.158565635,0.333219525
+3,TNF K83,selective logging,control,17,0.274370068,0.177397723,0.371342414
+3,TNF K83,selective logging,control,18,0.267193376,0.111030751,0.423356002
+3,TNF K83,selective logging,control,19,0.272419602,0.157777118,0.387062085
+3,TNF K83,selective logging,control,20,0.246140848,0.157224946,0.33505675
+3,TNF K83,selective logging,control,21,0.219418048,0.14583513,0.293000966
+3,TNF K83,selective logging,control,22,0.193555574,0.115883978,0.27122717
+3,TNF K83,selective logging,control,23,0.205643478,0.10712235,0.304164605
+3,TNF K83,selective logging,control,24,0.115477477,0.041799693,0.18915526
+3,TNF K83,selective logging,control,25,0.160909331,0.066781665,0.255036996
+3,TNF K83,selective logging,control,26,0.102468117,0.03840187,0.166534364
+3,TNF K83,selective logging,control,27,0.105171439,0.011355921,0.198986957
+3,TNF K83,selective logging,control,28,0.051038426,0.009724604,0.092352248
+3,TNF K83,selective logging,control,29,0.046520761,0.007323354,0.085718167
+3,TNF K83,selective logging,control,30,0.059217685,0.002647949,0.115787421
+3,TNF K83,selective logging,control,31,0.02489455,-0.003779582,0.053568682
+3,TNF K83,selective logging,control,32,0.006087115,-0.001934699,0.01410893
+3,TNF K83,selective logging,control,33,0.0147528,-0.011289811,0.040795412
+3,TNF K83,selective logging,control,34,0.003967044,-0.000982815,0.008916902
+3,TNF K83,selective logging,control,35,0.001307041,-0.001044874,0.003658957
+3,TNF K83,selective logging,control,36,0.005103698,-0.000764381,0.010971776
+3,TNF K83,selective logging,control,37,0.011984569,0.000279872,0.023689266
+3,TNF K83,selective logging,control,38,0.031182925,-0.002888182,0.065254031
+3,TNF K83,selective logging,control,39,0.064956789,-0.032182631,0.162096209
+3,TNF K83,selective logging,control,40,0.007469512,-0.002869356,0.01780838
+3,TNF K83,selective logging,control,41,0.006728151,-0.005055712,0.018512015
+3,TNF K83,selective logging,control,42,0,0,0
+3,TNF K83,selective logging,control,43,0,0,0
+3,TNF K83,selective logging,control,44,0.005456517,-0.005238256,0.01615129
+3,TNF K83,selective logging,control,45,0.001056013,-0.001013773,0.003125799
+3,TNF K83,selective logging,control,46,0,0,0
+3,TNF K83,selective logging,control,47,0,0,0
+3,TNF K83,selective logging,control,48,0,0,0
+3,TNF K83,selective logging,control,49,0,0,0
+3,TNF K83,selective logging,control,50,0,0,0
+3,TNF K83,selective logging,control,51,0,0,0
+3,TNF K83,selective logging,control,52,0,0,0
+3,TNF K83,selective logging,control,53,0,0,0
+3,TNF K83,selective logging,control,54,0,0,0
+3,TNF K83,selective logging,control,55,0,0,0
+3,TNF K83,selective logging,control,56,0,0,0
+3,TNF K83,selective logging,control,57,0,0,0
+3,TNF K83,selective logging,control,58,0,0,0
+3,TNF K83,selective logging,control,59,0,0,0
+3,TNF K83,selective logging,control,60,0,0,0
+3,TNF K83,selective logging,disturbed,1,0,0,0
+3,TNF K83,selective logging,disturbed,2,0,0,0
+3,TNF K83,selective logging,disturbed,3,0.024745988,0.009836734,0.039655242
+3,TNF K83,selective logging,disturbed,4,0.362200565,0.266035763,0.458365367
+3,TNF K83,selective logging,disturbed,5,0.463340931,0.351667444,0.575014418
+3,TNF K83,selective logging,disturbed,6,0.464569764,0.343528669,0.585610858
+3,TNF K83,selective logging,disturbed,7,0.49860352,0.403829386,0.593377654
+3,TNF K83,selective logging,disturbed,8,0.527690768,0.384974981,0.670406556
+3,TNF K83,selective logging,disturbed,9,0.437372645,0.32631569,0.5484296
+3,TNF K83,selective logging,disturbed,10,0.368103883,0.272114801,0.464092966
+3,TNF K83,selective logging,disturbed,11,0.292775993,0.195021295,0.390530691
+3,TNF K83,selective logging,disturbed,12,0.345084023,0.229028308,0.461139738
+3,TNF K83,selective logging,disturbed,13,0.359034922,0.233563236,0.484506607
+3,TNF K83,selective logging,disturbed,14,0.262912134,0.16953098,0.356293287
+3,TNF K83,selective logging,disturbed,15,0.189502418,0.125167714,0.253837123
+3,TNF K83,selective logging,disturbed,16,0.156509211,0.093568506,0.219449917
+3,TNF K83,selective logging,disturbed,17,0.154434688,0.091288238,0.217581139
+3,TNF K83,selective logging,disturbed,18,0.127581204,0.068479791,0.186682618
+3,TNF K83,selective logging,disturbed,19,0.099000453,0.044298383,0.153702523
+3,TNF K83,selective logging,disturbed,20,0.094230143,0.047317148,0.141143138
+3,TNF K83,selective logging,disturbed,21,0.071881946,0.039020067,0.104743826
+3,TNF K83,selective logging,disturbed,22,0.073539653,0.037092947,0.109986359
+3,TNF K83,selective logging,disturbed,23,0.105712826,0.055487515,0.155938137
+3,TNF K83,selective logging,disturbed,24,0.090699794,0.03866337,0.142736218
+3,TNF K83,selective logging,disturbed,25,0.058815463,0.023196354,0.094434572
+3,TNF K83,selective logging,disturbed,26,0.029428344,0.000509582,0.058347106
+3,TNF K83,selective logging,disturbed,27,0.042423813,0.003217647,0.08162998
+3,TNF K83,selective logging,disturbed,28,0.032130841,0.003608356,0.060653326
+3,TNF K83,selective logging,disturbed,29,0.026142793,0.00045372,0.051831867
+3,TNF K83,selective logging,disturbed,30,0.006712542,-0.000864154,0.014289237
+3,TNF K83,selective logging,disturbed,31,0.006571949,-0.000577033,0.01372093
+3,TNF K83,selective logging,disturbed,32,0.019912783,-0.005544027,0.045369593
+3,TNF K83,selective logging,disturbed,33,0.01076458,-0.001407882,0.022937042
+3,TNF K83,selective logging,disturbed,34,0.01780422,-0.006386427,0.041994867
+3,TNF K83,selective logging,disturbed,35,0.011144233,-0.006420671,0.028709136
+3,TNF K83,selective logging,disturbed,36,0.000299526,-0.000287545,0.000886596
+3,TNF K83,selective logging,disturbed,37,0,0,0
+3,TNF K83,selective logging,disturbed,38,0.000121379,-0.000116524,0.000359283
+3,TNF K83,selective logging,disturbed,39,0,0,0
+3,TNF K83,selective logging,disturbed,40,0,0,0
+3,TNF K83,selective logging,disturbed,41,0,0,0
+3,TNF K83,selective logging,disturbed,42,0.001975935,-0.001896897,0.005848767
+3,TNF K83,selective logging,disturbed,43,0,0,0
+3,TNF K83,selective logging,disturbed,44,0,0,0
+3,TNF K83,selective logging,disturbed,45,0,0,0
+3,TNF K83,selective logging,disturbed,46,0,0,0
+3,TNF K83,selective logging,disturbed,47,0,0,0
+3,TNF K83,selective logging,disturbed,48,0,0,0
+3,TNF K83,selective logging,disturbed,49,0,0,0
+3,TNF K83,selective logging,disturbed,50,0,0,0
+3,TNF K83,selective logging,disturbed,51,0,0,0
+3,TNF K83,selective logging,disturbed,52,0,0,0
+3,TNF K83,selective logging,disturbed,53,0,0,0
+3,TNF K83,selective logging,disturbed,54,0,0,0
+3,TNF K83,selective logging,disturbed,55,0,0,0
+3,TNF K83,selective logging,disturbed,56,0,0,0
+3,TNF K83,selective logging,disturbed,57,0,0,0
+3,TNF K83,selective logging,disturbed,58,0,0,0
+3,TNF K83,selective logging,disturbed,59,0,0,0
+3,TNF K83,selective logging,disturbed,60,0,0,0
+4,BDFFP (Florestal),fragmentation,control,1,0,0,0
+4,BDFFP (Florestal),fragmentation,control,2,0,0,0
+4,BDFFP (Florestal),fragmentation,control,3,0.296969117,0.263289543,0.330648691
+4,BDFFP (Florestal),fragmentation,control,4,0.562783362,0.5146526,0.610914124
+4,BDFFP (Florestal),fragmentation,control,5,0.347694981,0.306958356,0.388431606
+4,BDFFP (Florestal),fragmentation,control,6,0.289056736,0.25212076,0.325992711
+4,BDFFP (Florestal),fragmentation,control,7,0.26939563,0.23106835,0.307722909
+4,BDFFP (Florestal),fragmentation,control,8,0.290764395,0.251321569,0.330207221
+4,BDFFP (Florestal),fragmentation,control,9,0.277327817,0.237307969,0.317347664
+4,BDFFP (Florestal),fragmentation,control,10,0.227287361,0.189946103,0.264628618
+4,BDFFP (Florestal),fragmentation,control,11,0.214351271,0.183167649,0.245534894
+4,BDFFP (Florestal),fragmentation,control,12,0.261657177,0.222558167,0.300756187
+4,BDFFP (Florestal),fragmentation,control,13,0.207154667,0.167980061,0.246329273
+4,BDFFP (Florestal),fragmentation,control,14,0.211266175,0.173378125,0.249154224
+4,BDFFP (Florestal),fragmentation,control,15,0.233408782,0.195227543,0.271590021
+4,BDFFP (Florestal),fragmentation,control,16,0.235282324,0.194475754,0.276088893
+4,BDFFP (Florestal),fragmentation,control,17,0.231675891,0.191087095,0.272264687
+4,BDFFP (Florestal),fragmentation,control,18,0.216949267,0.178532703,0.25536583
+4,BDFFP (Florestal),fragmentation,control,19,0.194436947,0.158920616,0.229953277
+4,BDFFP (Florestal),fragmentation,control,20,0.174375564,0.143279467,0.20547166
+4,BDFFP (Florestal),fragmentation,control,21,0.172476053,0.141415564,0.203536541
+4,BDFFP (Florestal),fragmentation,control,22,0.147052257,0.117533727,0.176570787
+4,BDFFP (Florestal),fragmentation,control,23,0.149217175,0.118379579,0.180054772
+4,BDFFP (Florestal),fragmentation,control,24,0.125535869,0.095068253,0.156003485
+4,BDFFP (Florestal),fragmentation,control,25,0.115958528,0.084414108,0.147502948
+4,BDFFP (Florestal),fragmentation,control,26,0.141696398,0.104211818,0.179180977
+4,BDFFP (Florestal),fragmentation,control,27,0.123634432,0.090725301,0.156543564
+4,BDFFP (Florestal),fragmentation,control,28,0.100532411,0.072339064,0.128725757
+4,BDFFP (Florestal),fragmentation,control,29,0.06072208,0.037410365,0.084033796
+4,BDFFP (Florestal),fragmentation,control,30,0.070303333,0.0492794,0.091327266
+4,BDFFP (Florestal),fragmentation,control,31,0.063508167,0.040041897,0.086974437
+4,BDFFP (Florestal),fragmentation,control,32,0.040219798,0.020880639,0.059558957
+4,BDFFP (Florestal),fragmentation,control,33,0.013272651,0.004415037,0.022130265
+4,BDFFP (Florestal),fragmentation,control,34,0.006339069,0.002556498,0.010121641
+4,BDFFP (Florestal),fragmentation,control,35,0.016974492,0.003270139,0.030678845
+4,BDFFP (Florestal),fragmentation,control,36,0.007595683,0.000637113,0.014554253
+4,BDFFP (Florestal),fragmentation,control,37,0.002147032,-0.000722376,0.005016441
+4,BDFFP (Florestal),fragmentation,control,38,0.004292386,-0.003103891,0.011688663
+4,BDFFP (Florestal),fragmentation,control,39,0.001854934,-0.001665556,0.005375424
+4,BDFFP (Florestal),fragmentation,control,40,0.000462105,-0.00044362,0.00136783
+4,BDFFP (Florestal),fragmentation,control,41,0.002002429,-0.00183825,0.005843109
+4,BDFFP (Florestal),fragmentation,control,42,0.000107389,-0.000103094,0.000317872
+4,BDFFP (Florestal),fragmentation,control,43,0,0,0
+4,BDFFP (Florestal),fragmentation,control,44,0,0,0
+4,BDFFP (Florestal),fragmentation,control,45,0,0,0
+4,BDFFP (Florestal),fragmentation,control,46,0,0,0
+4,BDFFP (Florestal),fragmentation,control,47,0,0,0
+4,BDFFP (Florestal),fragmentation,control,48,0,0,0
+4,BDFFP (Florestal),fragmentation,control,49,0,0,0
+4,BDFFP (Florestal),fragmentation,control,50,0,0,0
+4,BDFFP (Florestal),fragmentation,control,51,0,0,0
+4,BDFFP (Florestal),fragmentation,control,52,0,0,0
+4,BDFFP (Florestal),fragmentation,control,53,0,0,0
+4,BDFFP (Florestal),fragmentation,control,54,0,0,0
+4,BDFFP (Florestal),fragmentation,control,55,0,0,0
+4,BDFFP (Florestal),fragmentation,control,56,0,0,0
+4,BDFFP (Florestal),fragmentation,control,57,0,0,0
+4,BDFFP (Florestal),fragmentation,control,58,0,0,0
+4,BDFFP (Florestal),fragmentation,control,59,0,0,0
+4,BDFFP (Florestal),fragmentation,control,60,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,1,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,2,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,3,0.182347768,0.158447678,0.206247858
+4,BDFFP (Dimona fragment),fragmentation,disturbed,4,0.453571203,0.405188604,0.501953803
+4,BDFFP (Dimona fragment),fragmentation,disturbed,5,0.324909017,0.285919226,0.363898808
+4,BDFFP (Dimona fragment),fragmentation,disturbed,6,0.2839405,0.242149777,0.325731223
+4,BDFFP (Dimona fragment),fragmentation,disturbed,7,0.307020061,0.261432639,0.352607484
+4,BDFFP (Dimona fragment),fragmentation,disturbed,8,0.326102396,0.282834793,0.369369998
+4,BDFFP (Dimona fragment),fragmentation,disturbed,9,0.355402182,0.308740077,0.402064288
+4,BDFFP (Dimona fragment),fragmentation,disturbed,10,0.293774353,0.249584806,0.337963899
+4,BDFFP (Dimona fragment),fragmentation,disturbed,11,0.297173801,0.257025107,0.337322494
+4,BDFFP (Dimona fragment),fragmentation,disturbed,12,0.276242491,0.236148425,0.316336558
+4,BDFFP (Dimona fragment),fragmentation,disturbed,13,0.273769033,0.232580745,0.314957321
+4,BDFFP (Dimona fragment),fragmentation,disturbed,14,0.250002907,0.210955877,0.289049937
+4,BDFFP (Dimona fragment),fragmentation,disturbed,15,0.242664955,0.203064784,0.282265127
+4,BDFFP (Dimona fragment),fragmentation,disturbed,16,0.253464364,0.216438041,0.290490687
+4,BDFFP (Dimona fragment),fragmentation,disturbed,17,0.234308742,0.190734285,0.277883198
+4,BDFFP (Dimona fragment),fragmentation,disturbed,18,0.21835557,0.185128093,0.251583048
+4,BDFFP (Dimona fragment),fragmentation,disturbed,19,0.207821646,0.169918401,0.24572489
+4,BDFFP (Dimona fragment),fragmentation,disturbed,20,0.201527614,0.161167668,0.24188756
+4,BDFFP (Dimona fragment),fragmentation,disturbed,21,0.201258434,0.158483364,0.244033504
+4,BDFFP (Dimona fragment),fragmentation,disturbed,22,0.159722475,0.121073683,0.198371267
+4,BDFFP (Dimona fragment),fragmentation,disturbed,23,0.116078615,0.087815963,0.144341267
+4,BDFFP (Dimona fragment),fragmentation,disturbed,24,0.126526236,0.097337329,0.155715143
+4,BDFFP (Dimona fragment),fragmentation,disturbed,25,0.112645694,0.08303837,0.142253017
+4,BDFFP (Dimona fragment),fragmentation,disturbed,26,0.093735599,0.060480435,0.126990762
+4,BDFFP (Dimona fragment),fragmentation,disturbed,27,0.078602665,0.051621375,0.105583955
+4,BDFFP (Dimona fragment),fragmentation,disturbed,28,0.058658326,0.037295811,0.08002084
+4,BDFFP (Dimona fragment),fragmentation,disturbed,29,0.043142507,0.022022993,0.06426202
+4,BDFFP (Dimona fragment),fragmentation,disturbed,30,0.02501559,0.012664654,0.037366526
+4,BDFFP (Dimona fragment),fragmentation,disturbed,31,0.023473157,0.009618839,0.037327474
+4,BDFFP (Dimona fragment),fragmentation,disturbed,32,0.0189999,0.005112127,0.032887673
+4,BDFFP (Dimona fragment),fragmentation,disturbed,33,0.017589958,0.000717693,0.034462223
+4,BDFFP (Dimona fragment),fragmentation,disturbed,34,0.009712221,0.000583637,0.018840806
+4,BDFFP (Dimona fragment),fragmentation,disturbed,35,0.001976122,0.000271317,0.003680926
+4,BDFFP (Dimona fragment),fragmentation,disturbed,36,0.006152954,-0.000256807,0.012562715
+4,BDFFP (Dimona fragment),fragmentation,disturbed,37,0.006368447,-0.003116703,0.015853597
+4,BDFFP (Dimona fragment),fragmentation,disturbed,38,0.005356276,1.31E-05,0.010699468
+4,BDFFP (Dimona fragment),fragmentation,disturbed,39,0.002926372,-0.002185003,0.008037748
+4,BDFFP (Dimona fragment),fragmentation,disturbed,40,0.00274539,-0.001177055,0.006667836
+4,BDFFP (Dimona fragment),fragmentation,disturbed,41,0.005519655,-0.002867475,0.013906784
+4,BDFFP (Dimona fragment),fragmentation,disturbed,42,0.000424993,-0.000407993,0.001257979
+4,BDFFP (Dimona fragment),fragmentation,disturbed,43,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,44,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,45,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,46,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,47,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,48,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,49,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,50,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,51,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,52,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,53,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,54,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,55,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,56,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,57,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,58,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,59,0,0,0
+4,BDFFP (Dimona fragment),fragmentation,disturbed,60,0,0,0
+5,Reserva Ducke,fragmentation,control,1,0,0,0
+5,Reserva Ducke,fragmentation,control,2,0,0,0
+5,Reserva Ducke,fragmentation,control,3,0.045413158,0.038969052,0.051857265
+5,Reserva Ducke,fragmentation,control,4,0.276845082,0.249851085,0.303839078
+5,Reserva Ducke,fragmentation,control,5,0.334834763,0.309603692,0.360065835
+5,Reserva Ducke,fragmentation,control,6,0.328612516,0.30581003,0.351415003
+5,Reserva Ducke,fragmentation,control,7,0.296891855,0.274443216,0.319340494
+5,Reserva Ducke,fragmentation,control,8,0.284893569,0.26259535,0.307191788
+5,Reserva Ducke,fragmentation,control,9,0.266326555,0.245131558,0.287521552
+5,Reserva Ducke,fragmentation,control,10,0.250217957,0.230521227,0.269914687
+5,Reserva Ducke,fragmentation,control,11,0.260767958,0.237857751,0.283678165
+5,Reserva Ducke,fragmentation,control,12,0.244455676,0.223743593,0.265167759
+5,Reserva Ducke,fragmentation,control,13,0.253166722,0.232636046,0.273697399
+5,Reserva Ducke,fragmentation,control,14,0.239192817,0.219016209,0.259369425
+5,Reserva Ducke,fragmentation,control,15,0.2398175,0.218561107,0.261073893
+5,Reserva Ducke,fragmentation,control,16,0.231703581,0.211790785,0.251616378
+5,Reserva Ducke,fragmentation,control,17,0.225190736,0.204765695,0.245615777
+5,Reserva Ducke,fragmentation,control,18,0.242239273,0.220919413,0.263559133
+5,Reserva Ducke,fragmentation,control,19,0.236968971,0.214988367,0.258949575
+5,Reserva Ducke,fragmentation,control,20,0.226376051,0.206433134,0.246318969
+5,Reserva Ducke,fragmentation,control,21,0.208301262,0.185801496,0.230801028
+5,Reserva Ducke,fragmentation,control,22,0.198476629,0.176715001,0.220238257
+5,Reserva Ducke,fragmentation,control,23,0.171710769,0.152112689,0.19130885
+5,Reserva Ducke,fragmentation,control,24,0.153115717,0.133958139,0.172273295
+5,Reserva Ducke,fragmentation,control,25,0.131952242,0.115618596,0.148285888
+5,Reserva Ducke,fragmentation,control,26,0.11502147,0.098511906,0.131531033
+5,Reserva Ducke,fragmentation,control,27,0.091114106,0.077072131,0.105156082
+5,Reserva Ducke,fragmentation,control,28,0.069403208,0.056397565,0.082408851
+5,Reserva Ducke,fragmentation,control,29,0.065795046,0.053027463,0.078562629
+5,Reserva Ducke,fragmentation,control,30,0.053508844,0.040635247,0.06638244
+5,Reserva Ducke,fragmentation,control,31,0.039730094,0.029784603,0.049675585
+5,Reserva Ducke,fragmentation,control,32,0.029851562,0.021926933,0.03777619
+5,Reserva Ducke,fragmentation,control,33,0.022383954,0.014592967,0.03017494
+5,Reserva Ducke,fragmentation,control,34,0.014887832,0.00922189,0.020553773
+5,Reserva Ducke,fragmentation,control,35,0.011554148,0.006197685,0.016910612
+5,Reserva Ducke,fragmentation,control,36,0.0087407,0.004328213,0.013153188
+5,Reserva Ducke,fragmentation,control,37,0.006612987,0.002802998,0.010422976
+5,Reserva Ducke,fragmentation,control,38,0.005612641,0.001739279,0.009486003
+5,Reserva Ducke,fragmentation,control,39,0.005326207,0.001943394,0.008709019
+5,Reserva Ducke,fragmentation,control,40,0.002712804,0.000632494,0.004793113
+5,Reserva Ducke,fragmentation,control,41,0.000255152,-2.63E-05,0.00053657
+5,Reserva Ducke,fragmentation,control,42,0.00036576,-0.00035113,0.001082651
+5,Reserva Ducke,fragmentation,control,43,0.000299217,-0.000287248,0.000885682
+5,Reserva Ducke,fragmentation,control,44,0,0,0
+5,Reserva Ducke,fragmentation,control,45,0,0,0
+5,Reserva Ducke,fragmentation,control,46,0,0,0
+5,Reserva Ducke,fragmentation,control,47,0,0,0
+5,Reserva Ducke,fragmentation,control,48,0,0,0
+5,Reserva Ducke,fragmentation,control,49,0,0,0
+5,Reserva Ducke,fragmentation,control,50,0,0,0
+5,Reserva Ducke,fragmentation,control,51,0,0,0
+5,Reserva Ducke,fragmentation,control,52,0,0,0
+5,Reserva Ducke,fragmentation,control,53,0,0,0
+5,Reserva Ducke,fragmentation,control,54,0,0,0
+5,Reserva Ducke,fragmentation,control,55,0,0,0
+5,Reserva Ducke,fragmentation,control,56,0,0,0
+5,Reserva Ducke,fragmentation,control,57,0,0,0
+5,Reserva Ducke,fragmentation,control,58,0,0,0
+5,Reserva Ducke,fragmentation,control,59,0,0,0
+5,Reserva Ducke,fragmentation,control,60,0,0,0
+5,UFAM,fragmentation,disturbed,1,0,0,0
+5,UFAM,fragmentation,disturbed,2,0,0,0
+5,UFAM,fragmentation,disturbed,3,0.026089641,0.019713845,0.032465436
+5,UFAM,fragmentation,disturbed,4,0.272195278,0.241169149,0.303221407
+5,UFAM,fragmentation,disturbed,5,0.386311753,0.34817226,0.424451247
+5,UFAM,fragmentation,disturbed,6,0.399834531,0.358275767,0.441393294
+5,UFAM,fragmentation,disturbed,7,0.379525284,0.333227958,0.42582261
+5,UFAM,fragmentation,disturbed,8,0.378907229,0.339253387,0.418561072
+5,UFAM,fragmentation,disturbed,9,0.354768998,0.315009344,0.394528652
+5,UFAM,fragmentation,disturbed,10,0.35279327,0.309980614,0.395605926
+5,UFAM,fragmentation,disturbed,11,0.337023912,0.292939466,0.381108357
+5,UFAM,fragmentation,disturbed,12,0.311240563,0.271153398,0.351327729
+5,UFAM,fragmentation,disturbed,13,0.290972188,0.248029099,0.333915278
+5,UFAM,fragmentation,disturbed,14,0.255360503,0.217708311,0.293012695
+5,UFAM,fragmentation,disturbed,15,0.288183388,0.247344764,0.329022011
+5,UFAM,fragmentation,disturbed,16,0.250703816,0.20927769,0.292129942
+5,UFAM,fragmentation,disturbed,17,0.24085093,0.199648059,0.282053801
+5,UFAM,fragmentation,disturbed,18,0.21050377,0.17684003,0.24416751
+5,UFAM,fragmentation,disturbed,19,0.173919142,0.140698692,0.207139591
+5,UFAM,fragmentation,disturbed,20,0.156962183,0.123438367,0.190485998
+5,UFAM,fragmentation,disturbed,21,0.137501955,0.107015235,0.167988674
+5,UFAM,fragmentation,disturbed,22,0.141918567,0.10762459,0.176212544
+5,UFAM,fragmentation,disturbed,23,0.099327613,0.071419045,0.127236181
+5,UFAM,fragmentation,disturbed,24,0.088614712,0.060816095,0.116413329
+5,UFAM,fragmentation,disturbed,25,0.072675873,0.04862153,0.096730216
+5,UFAM,fragmentation,disturbed,26,0.052871969,0.033074376,0.072669562
+5,UFAM,fragmentation,disturbed,27,0.031836346,0.017603618,0.046069074
+5,UFAM,fragmentation,disturbed,28,0.028191758,0.014617561,0.041765955
+5,UFAM,fragmentation,disturbed,29,0.03003661,0.015789225,0.044283996
+5,UFAM,fragmentation,disturbed,30,0.016498104,0.005080399,0.027915809
+5,UFAM,fragmentation,disturbed,31,0.010593708,0.003039272,0.018148144
+5,UFAM,fragmentation,disturbed,32,0.004907351,0.000448423,0.00936628
+5,UFAM,fragmentation,disturbed,33,6.78E-06,-6.51E-06,2.01E-05
+5,UFAM,fragmentation,disturbed,34,0.002163217,-0.001418917,0.005745351
+5,UFAM,fragmentation,disturbed,35,0.000652702,-0.000146571,0.001451976
+5,UFAM,fragmentation,disturbed,36,0.002946538,-0.000179045,0.006072121
+5,UFAM,fragmentation,disturbed,37,0.002499984,-0.000898866,0.005898834
+5,UFAM,fragmentation,disturbed,38,0,0,0
+5,UFAM,fragmentation,disturbed,39,0,0,0
+5,UFAM,fragmentation,disturbed,40,0,0,0
+5,UFAM,fragmentation,disturbed,41,0,0,0
+5,UFAM,fragmentation,disturbed,42,0,0,0
+5,UFAM,fragmentation,disturbed,43,0,0,0
+5,UFAM,fragmentation,disturbed,44,0,0,0
+5,UFAM,fragmentation,disturbed,45,0,0,0
+5,UFAM,fragmentation,disturbed,46,0,0,0
+5,UFAM,fragmentation,disturbed,47,0,0,0
+5,UFAM,fragmentation,disturbed,48,0,0,0
+5,UFAM,fragmentation,disturbed,49,0,0,0
+5,UFAM,fragmentation,disturbed,50,0,0,0
+5,UFAM,fragmentation,disturbed,51,0,0,0
+5,UFAM,fragmentation,disturbed,52,0,0,0
+5,UFAM,fragmentation,disturbed,53,0,0,0
+5,UFAM,fragmentation,disturbed,54,0,0,0
+5,UFAM,fragmentation,disturbed,55,0,0,0
+5,UFAM,fragmentation,disturbed,56,0,0,0
+5,UFAM,fragmentation,disturbed,57,0,0,0
+5,UFAM,fragmentation,disturbed,58,0,0,0
+5,UFAM,fragmentation,disturbed,59,0,0,0
+5,UFAM,fragmentation,disturbed,60,0,0,0
+6,Alter do Chão,fragmentation,control,1,0,0,0
+6,Alter do Chão,fragmentation,control,2,0,0,0
+6,Alter do Chão,fragmentation,control,3,0.021018397,0.012842816,0.029193979
+6,Alter do Chão,fragmentation,control,4,0.39161684,0.345292181,0.4379415
+6,Alter do Chão,fragmentation,control,5,0.537388798,0.467725189,0.607052407
+6,Alter do Chão,fragmentation,control,6,0.475641407,0.411015202,0.540267612
+6,Alter do Chão,fragmentation,control,7,0.380073323,0.334460552,0.425686093
+6,Alter do Chão,fragmentation,control,8,0.371047805,0.326812602,0.415283008
+6,Alter do Chão,fragmentation,control,9,0.331548287,0.28843722,0.374659354
+6,Alter do Chão,fragmentation,control,10,0.313231584,0.269109727,0.357353441
+6,Alter do Chão,fragmentation,control,11,0.308006249,0.263663053,0.352349444
+6,Alter do Chão,fragmentation,control,12,0.276997663,0.22695008,0.327045246
+6,Alter do Chão,fragmentation,control,13,0.22640485,0.182803691,0.270006008
+6,Alter do Chão,fragmentation,control,14,0.224703269,0.186236723,0.263169815
+6,Alter do Chão,fragmentation,control,15,0.194899299,0.154066626,0.235731973
+6,Alter do Chão,fragmentation,control,16,0.174595358,0.131877643,0.217313072
+6,Alter do Chão,fragmentation,control,17,0.145961532,0.106859947,0.185063117
+6,Alter do Chão,fragmentation,control,18,0.1119495,0.076476109,0.147422891
+6,Alter do Chão,fragmentation,control,19,0.099420477,0.066844297,0.131996657
+6,Alter do Chão,fragmentation,control,20,0.082729495,0.052814617,0.112644373
+6,Alter do Chão,fragmentation,control,21,0.097491617,0.062031211,0.132952022
+6,Alter do Chão,fragmentation,control,22,0.054658541,0.032220898,0.077096185
+6,Alter do Chão,fragmentation,control,23,0.044347329,0.025651065,0.063043594
+6,Alter do Chão,fragmentation,control,24,0.030088271,0.012182223,0.047994319
+6,Alter do Chão,fragmentation,control,25,0.021551015,0.007396435,0.035705594
+6,Alter do Chão,fragmentation,control,26,0.01648474,-0.002130876,0.035100357
+6,Alter do Chão,fragmentation,control,27,0.008942471,0.00196452,0.015920422
+6,Alter do Chão,fragmentation,control,28,0.008782175,0.001934472,0.015629878
+6,Alter do Chão,fragmentation,control,29,0.008730263,0.000799297,0.016661228
+6,Alter do Chão,fragmentation,control,30,0.006034731,-0.001430989,0.013500451
+6,Alter do Chão,fragmentation,control,31,0.001025724,-0.000955515,0.003006963
+6,Alter do Chão,fragmentation,control,32,0.001501532,-0.001441471,0.004444535
+6,Alter do Chão,fragmentation,control,33,0.000912174,-0.000875687,0.002700035
+6,Alter do Chão,fragmentation,control,34,0.00059175,-0.00056808,0.00175158
+6,Alter do Chão,fragmentation,control,35,0.001153905,-0.001107749,0.003415559
+6,Alter do Chão,fragmentation,control,36,0,0,0
+6,Alter do Chão,fragmentation,control,37,0,0,0
+6,Alter do Chão,fragmentation,control,38,0,0,0
+6,Alter do Chão,fragmentation,control,39,0,0,0
+6,Alter do Chão,fragmentation,control,40,0,0,0
+6,Alter do Chão,fragmentation,control,41,0,0,0
+6,Alter do Chão,fragmentation,control,42,0,0,0
+6,Alter do Chão,fragmentation,control,43,0,0,0
+6,Alter do Chão,fragmentation,control,44,0,0,0
+6,Alter do Chão,fragmentation,control,45,0,0,0
+6,Alter do Chão,fragmentation,control,46,0,0,0
+6,Alter do Chão,fragmentation,control,47,0,0,0
+6,Alter do Chão,fragmentation,control,48,0,0,0
+6,Alter do Chão,fragmentation,control,49,0,0,0
+6,Alter do Chão,fragmentation,control,50,0,0,0
+6,Alter do Chão,fragmentation,control,51,0,0,0
+6,Alter do Chão,fragmentation,control,52,0,0,0
+6,Alter do Chão,fragmentation,control,53,0,0,0
+6,Alter do Chão,fragmentation,control,54,0,0,0
+6,Alter do Chão,fragmentation,control,55,0,0,0
+6,Alter do Chão,fragmentation,control,56,0,0,0
+6,Alter do Chão,fragmentation,control,57,0,0,0
+6,Alter do Chão,fragmentation,control,58,0,0,0
+6,Alter do Chão,fragmentation,control,59,0,0,0
+6,Alter do Chão,fragmentation,control,60,0,0,0
+6,Alter do Chão,fragmentation,disturbed,1,0,0,0
+6,Alter do Chão,fragmentation,disturbed,2,0,0,0
+6,Alter do Chão,fragmentation,disturbed,3,0.068798874,0.060438333,0.077159414
+6,Alter do Chão,fragmentation,disturbed,4,0.364085241,0.337842612,0.39032787
+6,Alter do Chão,fragmentation,disturbed,5,0.346447271,0.321483167,0.371411376
+6,Alter do Chão,fragmentation,disturbed,6,0.33711267,0.313556905,0.360668436
+6,Alter do Chão,fragmentation,disturbed,7,0.370283166,0.345031905,0.395534427
+6,Alter do Chão,fragmentation,disturbed,8,0.389153906,0.365357781,0.412950032
+6,Alter do Chão,fragmentation,disturbed,9,0.383549464,0.360870611,0.406228318
+6,Alter do Chão,fragmentation,disturbed,10,0.377300374,0.353378009,0.40122274
+6,Alter do Chão,fragmentation,disturbed,11,0.355140222,0.331345538,0.378934905
+6,Alter do Chão,fragmentation,disturbed,12,0.314598725,0.292752934,0.336444515
+6,Alter do Chão,fragmentation,disturbed,13,0.291024558,0.269876041,0.312173076
+6,Alter do Chão,fragmentation,disturbed,14,0.236330933,0.215783782,0.256878084
+6,Alter do Chão,fragmentation,disturbed,15,0.201554511,0.181649123,0.2214599
+6,Alter do Chão,fragmentation,disturbed,16,0.169901357,0.150606807,0.189195907
+6,Alter do Chão,fragmentation,disturbed,17,0.128040784,0.11104518,0.145036388
+6,Alter do Chão,fragmentation,disturbed,18,0.102294047,0.08741597,0.117172125
+6,Alter do Chão,fragmentation,disturbed,19,0.072685554,0.059143537,0.086227571
+6,Alter do Chão,fragmentation,disturbed,20,0.052117533,0.040547453,0.063687613
+6,Alter do Chão,fragmentation,disturbed,21,0.035389733,0.025174467,0.045604999
+6,Alter do Chão,fragmentation,disturbed,22,0.021281036,0.014559195,0.028002877
+6,Alter do Chão,fragmentation,disturbed,23,0.014165358,0.008474926,0.01985579
+6,Alter do Chão,fragmentation,disturbed,24,0.003634743,0.001378514,0.005890972
+6,Alter do Chão,fragmentation,disturbed,25,0.004900286,0.001225559,0.008575013
+6,Alter do Chão,fragmentation,disturbed,26,0.001923288,5.86E-05,0.003787994
+6,Alter do Chão,fragmentation,disturbed,27,0.000132982,-0.000127041,0.000393005
+6,Alter do Chão,fragmentation,disturbed,28,5.36E-05,-5.15E-05,0.00015872
+6,Alter do Chão,fragmentation,disturbed,29,1.84E-05,-1.77E-05,5.44E-05
+6,Alter do Chão,fragmentation,disturbed,30,6.21E-05,-5.96E-05,0.000183686
+6,Alter do Chão,fragmentation,disturbed,31,0.000106921,-8.69E-05,0.00030072
+6,Alter do Chão,fragmentation,disturbed,32,4.04E-05,-3.88E-05,0.000119622
+6,Alter do Chão,fragmentation,disturbed,33,0,0,0
+6,Alter do Chão,fragmentation,disturbed,34,0,0,0
+6,Alter do Chão,fragmentation,disturbed,35,0,0,0
+6,Alter do Chão,fragmentation,disturbed,36,0,0,0
+6,Alter do Chão,fragmentation,disturbed,37,0,0,0
+6,Alter do Chão,fragmentation,disturbed,38,0,0,0
+6,Alter do Chão,fragmentation,disturbed,39,0,0,0
+6,Alter do Chão,fragmentation,disturbed,40,0,0,0
+6,Alter do Chão,fragmentation,disturbed,41,0,0,0
+6,Alter do Chão,fragmentation,disturbed,42,0,0,0
+6,Alter do Chão,fragmentation,disturbed,43,0,0,0
+6,Alter do Chão,fragmentation,disturbed,44,0,0,0
+6,Alter do Chão,fragmentation,disturbed,45,0,0,0
+6,Alter do Chão,fragmentation,disturbed,46,0,0,0
+6,Alter do Chão,fragmentation,disturbed,47,0,0,0
+6,Alter do Chão,fragmentation,disturbed,48,0,0,0
+6,Alter do Chão,fragmentation,disturbed,49,0,0,0
+6,Alter do Chão,fragmentation,disturbed,50,0,0,0
+6,Alter do Chão,fragmentation,disturbed,51,0,0,0
+6,Alter do Chão,fragmentation,disturbed,52,0,0,0
+6,Alter do Chão,fragmentation,disturbed,53,0,0,0
+6,Alter do Chão,fragmentation,disturbed,54,0,0,0
+6,Alter do Chão,fragmentation,disturbed,55,0,0,0
+6,Alter do Chão,fragmentation,disturbed,56,0,0,0
+6,Alter do Chão,fragmentation,disturbed,57,0,0,0
+6,Alter do Chão,fragmentation,disturbed,58,0,0,0
+6,Alter do Chão,fragmentation,disturbed,59,0,0,0
+6,Alter do Chão,fragmentation,disturbed,60,0,0,0
+7,Careiro Castanho,fire (terra firme),control,1,0,0,0
+7,Careiro Castanho,fire (terra firme),control,2,0,0,0
+7,Careiro Castanho,fire (terra firme),control,3,0.100518752,0.089622715,0.111414789
+7,Careiro Castanho,fire (terra firme),control,4,0.407383358,0.373721758,0.441044958
+7,Careiro Castanho,fire (terra firme),control,5,0.423167345,0.388325605,0.458009085
+7,Careiro Castanho,fire (terra firme),control,6,0.400836913,0.360146073,0.441527753
+7,Careiro Castanho,fire (terra firme),control,7,0.406158047,0.364092569,0.448223525
+7,Careiro Castanho,fire (terra firme),control,8,0.361644888,0.323373517,0.399916258
+7,Careiro Castanho,fire (terra firme),control,9,0.38568958,0.341295662,0.430083498
+7,Careiro Castanho,fire (terra firme),control,10,0.338735167,0.302506223,0.374964112
+7,Careiro Castanho,fire (terra firme),control,11,0.34225638,0.299401303,0.385111458
+7,Careiro Castanho,fire (terra firme),control,12,0.343691958,0.300942841,0.386441074
+7,Careiro Castanho,fire (terra firme),control,13,0.266679101,0.229925754,0.303432449
+7,Careiro Castanho,fire (terra firme),control,14,0.285945508,0.246915054,0.324975961
+7,Careiro Castanho,fire (terra firme),control,15,0.25179189,0.218906278,0.284677502
+7,Careiro Castanho,fire (terra firme),control,16,0.233236963,0.20046609,0.266007836
+7,Careiro Castanho,fire (terra firme),control,17,0.243411333,0.208999744,0.277822922
+7,Careiro Castanho,fire (terra firme),control,18,0.195231323,0.162045213,0.228417433
+7,Careiro Castanho,fire (terra firme),control,19,0.16498352,0.132203828,0.197763211
+7,Careiro Castanho,fire (terra firme),control,20,0.15027671,0.121016476,0.179536945
+7,Careiro Castanho,fire (terra firme),control,21,0.147886243,0.112623038,0.183149449
+7,Careiro Castanho,fire (terra firme),control,22,0.140350786,0.107682356,0.173019217
+7,Careiro Castanho,fire (terra firme),control,23,0.103160066,0.080737534,0.125582599
+7,Careiro Castanho,fire (terra firme),control,24,0.09878728,0.073722854,0.123851706
+7,Careiro Castanho,fire (terra firme),control,25,0.086702155,0.064160508,0.109243801
+7,Careiro Castanho,fire (terra firme),control,26,0.081095932,0.059148853,0.103043011
+7,Careiro Castanho,fire (terra firme),control,27,0.06769313,0.045277566,0.090108694
+7,Careiro Castanho,fire (terra firme),control,28,0.066367455,0.04408307,0.088651839
+7,Careiro Castanho,fire (terra firme),control,29,0.048901668,0.031012984,0.066790352
+7,Careiro Castanho,fire (terra firme),control,30,0.026520747,0.013481893,0.039559602
+7,Careiro Castanho,fire (terra firme),control,31,0.02727334,0.013155425,0.041391254
+7,Careiro Castanho,fire (terra firme),control,32,0.014017557,0.003697674,0.024337441
+7,Careiro Castanho,fire (terra firme),control,33,0.012951466,0.004186877,0.021716055
+7,Careiro Castanho,fire (terra firme),control,34,0.011963706,-0.001770354,0.025697767
+7,Careiro Castanho,fire (terra firme),control,35,0.001361458,-0.000158366,0.002881282
+7,Careiro Castanho,fire (terra firme),control,36,4.75E-06,-4.56E-06,1.40E-05
+7,Careiro Castanho,fire (terra firme),control,37,0,0,0
+7,Careiro Castanho,fire (terra firme),control,38,0,0,0
+7,Careiro Castanho,fire (terra firme),control,39,0,0,0
+7,Careiro Castanho,fire (terra firme),control,40,0,0,0
+7,Careiro Castanho,fire (terra firme),control,41,0,0,0
+7,Careiro Castanho,fire (terra firme),control,42,0,0,0
+7,Careiro Castanho,fire (terra firme),control,43,0,0,0
+7,Careiro Castanho,fire (terra firme),control,44,0,0,0
+7,Careiro Castanho,fire (terra firme),control,45,0,0,0
+7,Careiro Castanho,fire (terra firme),control,46,0,0,0
+7,Careiro Castanho,fire (terra firme),control,47,0,0,0
+7,Careiro Castanho,fire (terra firme),control,48,0,0,0
+7,Careiro Castanho,fire (terra firme),control,49,0,0,0
+7,Careiro Castanho,fire (terra firme),control,50,0,0,0
+7,Careiro Castanho,fire (terra firme),control,51,0,0,0
+7,Careiro Castanho,fire (terra firme),control,52,0,0,0
+7,Careiro Castanho,fire (terra firme),control,53,0,0,0
+7,Careiro Castanho,fire (terra firme),control,54,0,0,0
+7,Careiro Castanho,fire (terra firme),control,55,0,0,0
+7,Careiro Castanho,fire (terra firme),control,56,0,0,0
+7,Careiro Castanho,fire (terra firme),control,57,0,0,0
+7,Careiro Castanho,fire (terra firme),control,58,0,0,0
+7,Careiro Castanho,fire (terra firme),control,59,0,0,0
+7,Careiro Castanho,fire (terra firme),control,60,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,1,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,2,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,3,0.191916673,0.168635784,0.215197563
+7,Careiro Castanho,fire (terra firme),disturbed,4,0.513384365,0.46790084,0.558867889
+7,Careiro Castanho,fire (terra firme),disturbed,5,0.499551424,0.45030399,0.548798857
+7,Careiro Castanho,fire (terra firme),disturbed,6,0.456766795,0.40363699,0.509896599
+7,Careiro Castanho,fire (terra firme),disturbed,7,0.402366931,0.350165023,0.454568839
+7,Careiro Castanho,fire (terra firme),disturbed,8,0.34642101,0.297454387,0.395387633
+7,Careiro Castanho,fire (terra firme),disturbed,9,0.286634882,0.245769383,0.327500381
+7,Careiro Castanho,fire (terra firme),disturbed,10,0.241868056,0.204011076,0.279725035
+7,Careiro Castanho,fire (terra firme),disturbed,11,0.278781604,0.235785226,0.321777982
+7,Careiro Castanho,fire (terra firme),disturbed,12,0.247135786,0.205683544,0.288588028
+7,Careiro Castanho,fire (terra firme),disturbed,13,0.22896658,0.193930652,0.264002507
+7,Careiro Castanho,fire (terra firme),disturbed,14,0.215994853,0.178342034,0.253647672
+7,Careiro Castanho,fire (terra firme),disturbed,15,0.188372369,0.154325245,0.222419493
+7,Careiro Castanho,fire (terra firme),disturbed,16,0.1871676,0.152927407,0.221407793
+7,Careiro Castanho,fire (terra firme),disturbed,17,0.150042742,0.115045738,0.185039746
+7,Careiro Castanho,fire (terra firme),disturbed,18,0.158189863,0.126639798,0.189739929
+7,Careiro Castanho,fire (terra firme),disturbed,19,0.136661962,0.107853609,0.165470315
+7,Careiro Castanho,fire (terra firme),disturbed,20,0.120387967,0.092494344,0.14828159
+7,Careiro Castanho,fire (terra firme),disturbed,21,0.090471223,0.068460448,0.112481998
+7,Careiro Castanho,fire (terra firme),disturbed,22,0.101563534,0.076369517,0.12675755
+7,Careiro Castanho,fire (terra firme),disturbed,23,0.088148463,0.065739118,0.110557808
+7,Careiro Castanho,fire (terra firme),disturbed,24,0.062138867,0.043207254,0.081070481
+7,Careiro Castanho,fire (terra firme),disturbed,25,0.059115771,0.041977097,0.076254446
+7,Careiro Castanho,fire (terra firme),disturbed,26,0.070821658,0.045475732,0.096167584
+7,Careiro Castanho,fire (terra firme),disturbed,27,0.04769245,0.030190944,0.065193956
+7,Careiro Castanho,fire (terra firme),disturbed,28,0.04090403,0.025531445,0.056276616
+7,Careiro Castanho,fire (terra firme),disturbed,29,0.037371641,0.021120254,0.053623028
+7,Careiro Castanho,fire (terra firme),disturbed,30,0.023659791,0.012164479,0.035155102
+7,Careiro Castanho,fire (terra firme),disturbed,31,0.030456592,0.016882783,0.0440304
+7,Careiro Castanho,fire (terra firme),disturbed,32,0.017480296,0.006236693,0.0287239
+7,Careiro Castanho,fire (terra firme),disturbed,33,0.00994936,0.001465567,0.018433153
+7,Careiro Castanho,fire (terra firme),disturbed,34,0.015439582,0.001454843,0.029424321
+7,Careiro Castanho,fire (terra firme),disturbed,35,0.011128935,0.001089764,0.021168107
+7,Careiro Castanho,fire (terra firme),disturbed,36,0.008469232,-0.001810462,0.018748926
+7,Careiro Castanho,fire (terra firme),disturbed,37,0.00524027,-0.001526235,0.012006776
+7,Careiro Castanho,fire (terra firme),disturbed,38,0.004526851,-0.002501794,0.011555495
+7,Careiro Castanho,fire (terra firme),disturbed,39,0.000839262,-0.000336607,0.002015132
+7,Careiro Castanho,fire (terra firme),disturbed,40,8.87E-05,-8.51E-05,0.000262509
+7,Careiro Castanho,fire (terra firme),disturbed,41,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,42,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,43,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,44,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,45,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,46,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,47,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,48,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,49,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,50,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,51,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,52,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,53,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,54,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,55,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,56,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,57,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,58,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,59,0,0,0
+7,Careiro Castanho,fire (terra firme),disturbed,60,0,0,0
+8,Careiro Castanho,fire (igapo),control,1,0,0,0
+8,Careiro Castanho,fire (igapo),control,2,0,0,0
+8,Careiro Castanho,fire (igapo),control,3,0.02778774,0.021427757,0.034147723
+8,Careiro Castanho,fire (igapo),control,4,0.158060621,0.128428895,0.187692347
+8,Careiro Castanho,fire (igapo),control,5,0.268767795,0.225500109,0.312035481
+8,Careiro Castanho,fire (igapo),control,6,0.384278,0.334868466,0.433687534
+8,Careiro Castanho,fire (igapo),control,7,0.43196112,0.378685948,0.485236292
+8,Careiro Castanho,fire (igapo),control,8,0.462918352,0.410920463,0.51491624
+8,Careiro Castanho,fire (igapo),control,9,0.419303208,0.370840343,0.467766072
+8,Careiro Castanho,fire (igapo),control,10,0.3938896,0.346010654,0.441768546
+8,Careiro Castanho,fire (igapo),control,11,0.389471385,0.339033624,0.439909146
+8,Careiro Castanho,fire (igapo),control,12,0.348302943,0.304099549,0.392506337
+8,Careiro Castanho,fire (igapo),control,13,0.322353427,0.274289603,0.370417252
+8,Careiro Castanho,fire (igapo),control,14,0.290074751,0.249077833,0.33107167
+8,Careiro Castanho,fire (igapo),control,15,0.260973268,0.222182402,0.299764134
+8,Careiro Castanho,fire (igapo),control,16,0.244651739,0.205427896,0.283875582
+8,Careiro Castanho,fire (igapo),control,17,0.216685512,0.17934823,0.254022793
+8,Careiro Castanho,fire (igapo),control,18,0.243347152,0.204004322,0.282689982
+8,Careiro Castanho,fire (igapo),control,19,0.215482826,0.171210536,0.259755116
+8,Careiro Castanho,fire (igapo),control,20,0.193891031,0.156024531,0.231757531
+8,Careiro Castanho,fire (igapo),control,21,0.165729904,0.123243317,0.20821649
+8,Careiro Castanho,fire (igapo),control,22,0.133917939,0.096912302,0.170923577
+8,Careiro Castanho,fire (igapo),control,23,0.093074668,0.062612168,0.123537167
+8,Careiro Castanho,fire (igapo),control,24,0.063008474,0.040395169,0.08562178
+8,Careiro Castanho,fire (igapo),control,25,0.069813967,0.04241598,0.097211954
+8,Careiro Castanho,fire (igapo),control,26,0.046076775,0.026466425,0.065687126
+8,Careiro Castanho,fire (igapo),control,27,0.038819746,0.019501298,0.058138194
+8,Careiro Castanho,fire (igapo),control,28,0.037811799,0.017671558,0.057952041
+8,Careiro Castanho,fire (igapo),control,29,0.020668707,0.006303287,0.035034126
+8,Careiro Castanho,fire (igapo),control,30,0.017439264,0.00363642,0.031242108
+8,Careiro Castanho,fire (igapo),control,31,0.006597111,-0.00037748,0.013571703
+8,Careiro Castanho,fire (igapo),control,32,0.003776313,-0.001359268,0.008911893
+8,Careiro Castanho,fire (igapo),control,33,0.002441047,-0.001864794,0.006746887
+8,Careiro Castanho,fire (igapo),control,34,0.001448258,-0.000846991,0.003743508
+8,Careiro Castanho,fire (igapo),control,35,0.001401997,-0.001000852,0.003804846
+8,Careiro Castanho,fire (igapo),control,36,0.002252665,-0.001992079,0.006497409
+8,Careiro Castanho,fire (igapo),control,37,0.001986945,-0.000770918,0.004744808
+8,Careiro Castanho,fire (igapo),control,38,0.000624826,-0.000599833,0.001849486
+8,Careiro Castanho,fire (igapo),control,39,0.000199134,-0.000191168,0.000589436
+8,Careiro Castanho,fire (igapo),control,40,0,0,0
+8,Careiro Castanho,fire (igapo),control,41,0,0,0
+8,Careiro Castanho,fire (igapo),control,42,0,0,0
+8,Careiro Castanho,fire (igapo),control,43,0,0,0
+8,Careiro Castanho,fire (igapo),control,44,0,0,0
+8,Careiro Castanho,fire (igapo),control,45,0,0,0
+8,Careiro Castanho,fire (igapo),control,46,0,0,0
+8,Careiro Castanho,fire (igapo),control,47,0,0,0
+8,Careiro Castanho,fire (igapo),control,48,1.62E-06,-1.56E-06,4.80E-06
+8,Careiro Castanho,fire (igapo),control,49,0,0,0
+8,Careiro Castanho,fire (igapo),control,50,0,0,0
+8,Careiro Castanho,fire (igapo),control,51,0,0,0
+8,Careiro Castanho,fire (igapo),control,52,0,0,0
+8,Careiro Castanho,fire (igapo),control,53,0,0,0
+8,Careiro Castanho,fire (igapo),control,54,0,0,0
+8,Careiro Castanho,fire (igapo),control,55,0,0,0
+8,Careiro Castanho,fire (igapo),control,56,0,0,0
+8,Careiro Castanho,fire (igapo),control,57,0,0,0
+8,Careiro Castanho,fire (igapo),control,58,0,0,0
+8,Careiro Castanho,fire (igapo),control,59,0,0,0
+8,Careiro Castanho,fire (igapo),control,60,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,1,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,2,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,3,0.026515411,0.020539919,0.032490904
+8,Careiro Castanho,fire (igapo),disturbed,4,0.063773859,0.048014827,0.079532891
+8,Careiro Castanho,fire (igapo),disturbed,5,0.062677131,0.043518194,0.081836069
+8,Careiro Castanho,fire (igapo),disturbed,6,0.05707162,0.041990356,0.072152884
+8,Careiro Castanho,fire (igapo),disturbed,7,0.082936648,0.060245288,0.105628008
+8,Careiro Castanho,fire (igapo),disturbed,8,0.084018374,0.061443344,0.106593404
+8,Careiro Castanho,fire (igapo),disturbed,9,0.086857604,0.062989904,0.110725304
+8,Careiro Castanho,fire (igapo),disturbed,10,0.087660057,0.064660491,0.110659622
+8,Careiro Castanho,fire (igapo),disturbed,11,0.083184863,0.060822474,0.105547251
+8,Careiro Castanho,fire (igapo),disturbed,12,0.070322545,0.050879804,0.089765286
+8,Careiro Castanho,fire (igapo),disturbed,13,0.072609184,0.05186993,0.093348438
+8,Careiro Castanho,fire (igapo),disturbed,14,0.077563794,0.055669342,0.099458246
+8,Careiro Castanho,fire (igapo),disturbed,15,0.076567684,0.056721435,0.096413933
+8,Careiro Castanho,fire (igapo),disturbed,16,0.083629298,0.057108946,0.11014965
+8,Careiro Castanho,fire (igapo),disturbed,17,0.082398813,0.059921283,0.104876343
+8,Careiro Castanho,fire (igapo),disturbed,18,0.062838782,0.043546845,0.082130719
+8,Careiro Castanho,fire (igapo),disturbed,19,0.078787166,0.053532942,0.10404139
+8,Careiro Castanho,fire (igapo),disturbed,20,0.06614374,0.042405535,0.089881945
+8,Careiro Castanho,fire (igapo),disturbed,21,0.062366602,0.041499776,0.083233427
+8,Careiro Castanho,fire (igapo),disturbed,22,0.061150581,0.040141988,0.082159175
+8,Careiro Castanho,fire (igapo),disturbed,23,0.053346343,0.034826358,0.071866328
+8,Careiro Castanho,fire (igapo),disturbed,24,0.040766077,0.024402984,0.057129171
+8,Careiro Castanho,fire (igapo),disturbed,25,0.030166557,0.015028141,0.045304973
+8,Careiro Castanho,fire (igapo),disturbed,26,0.019144767,0.008210889,0.030078645
+8,Careiro Castanho,fire (igapo),disturbed,27,0.011382247,0.003538769,0.019225725
+8,Careiro Castanho,fire (igapo),disturbed,28,0.005458812,0.000477802,0.010439821
+8,Careiro Castanho,fire (igapo),disturbed,29,0.009312736,-0.000572969,0.01919844
+8,Careiro Castanho,fire (igapo),disturbed,30,0.008927896,-0.002711248,0.02056704
+8,Careiro Castanho,fire (igapo),disturbed,31,0.003371457,-0.00106099,0.007803905
+8,Careiro Castanho,fire (igapo),disturbed,32,0.003582764,-0.00236629,0.009531819
+8,Careiro Castanho,fire (igapo),disturbed,33,0.001968674,-0.00094171,0.004879059
+8,Careiro Castanho,fire (igapo),disturbed,34,0.000764657,-0.000331455,0.001860769
+8,Careiro Castanho,fire (igapo),disturbed,35,0.00015574,-6.39E-05,0.000375363
+8,Careiro Castanho,fire (igapo),disturbed,36,1.60E-05,-1.12E-05,4.31E-05
+8,Careiro Castanho,fire (igapo),disturbed,37,6.08E-07,-5.84E-07,1.80E-06
+8,Careiro Castanho,fire (igapo),disturbed,38,1.27E-06,-1.22E-06,3.75E-06
+8,Careiro Castanho,fire (igapo),disturbed,39,1.27E-06,-9.29E-07,3.47E-06
+8,Careiro Castanho,fire (igapo),disturbed,40,1.22E-06,-1.17E-06,3.60E-06
+8,Careiro Castanho,fire (igapo),disturbed,41,6.01E-07,-3.18E-07,1.52E-06
+8,Careiro Castanho,fire (igapo),disturbed,42,1.59E-07,-1.52E-07,4.69E-07
+8,Careiro Castanho,fire (igapo),disturbed,43,3.01E-07,-2.89E-07,8.92E-07
+8,Careiro Castanho,fire (igapo),disturbed,44,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,45,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,46,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,47,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,48,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,49,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,50,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,51,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,52,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,53,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,54,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,55,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,56,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,57,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,58,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,59,0,0,0
+8,Careiro Castanho,fire (igapo),disturbed,60,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,1,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,2,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,3,0.296969117,0.263289543,0.330648691
+9,BDFFP (Florestal),clearing and regrowth,control,4,0.562783362,0.5146526,0.610914124
+9,BDFFP (Florestal),clearing and regrowth,control,5,0.347694981,0.306958356,0.388431606
+9,BDFFP (Florestal),clearing and regrowth,control,6,0.289056736,0.25212076,0.325992711
+9,BDFFP (Florestal),clearing and regrowth,control,7,0.26939563,0.23106835,0.307722909
+9,BDFFP (Florestal),clearing and regrowth,control,8,0.290764395,0.251321569,0.330207221
+9,BDFFP (Florestal),clearing and regrowth,control,9,0.277327817,0.237307969,0.317347664
+9,BDFFP (Florestal),clearing and regrowth,control,10,0.227287361,0.189946103,0.264628618
+9,BDFFP (Florestal),clearing and regrowth,control,11,0.214351271,0.183167649,0.245534894
+9,BDFFP (Florestal),clearing and regrowth,control,12,0.261657177,0.222558167,0.300756187
+9,BDFFP (Florestal),clearing and regrowth,control,13,0.207154667,0.167980061,0.246329273
+9,BDFFP (Florestal),clearing and regrowth,control,14,0.211266175,0.173378125,0.249154224
+9,BDFFP (Florestal),clearing and regrowth,control,15,0.233408782,0.195227543,0.271590021
+9,BDFFP (Florestal),clearing and regrowth,control,16,0.235282324,0.194475754,0.276088893
+9,BDFFP (Florestal),clearing and regrowth,control,17,0.231675891,0.191087095,0.272264687
+9,BDFFP (Florestal),clearing and regrowth,control,18,0.216949267,0.178532703,0.25536583
+9,BDFFP (Florestal),clearing and regrowth,control,19,0.194436947,0.158920616,0.229953277
+9,BDFFP (Florestal),clearing and regrowth,control,20,0.174375564,0.143279467,0.20547166
+9,BDFFP (Florestal),clearing and regrowth,control,21,0.172476053,0.141415564,0.203536541
+9,BDFFP (Florestal),clearing and regrowth,control,22,0.147052257,0.117533727,0.176570787
+9,BDFFP (Florestal),clearing and regrowth,control,23,0.149217175,0.118379579,0.180054772
+9,BDFFP (Florestal),clearing and regrowth,control,24,0.125535869,0.095068253,0.156003485
+9,BDFFP (Florestal),clearing and regrowth,control,25,0.115958528,0.084414108,0.147502948
+9,BDFFP (Florestal),clearing and regrowth,control,26,0.141696398,0.104211818,0.179180977
+9,BDFFP (Florestal),clearing and regrowth,control,27,0.123634432,0.090725301,0.156543564
+9,BDFFP (Florestal),clearing and regrowth,control,28,0.100532411,0.072339064,0.128725757
+9,BDFFP (Florestal),clearing and regrowth,control,29,0.06072208,0.037410365,0.084033796
+9,BDFFP (Florestal),clearing and regrowth,control,30,0.070303333,0.0492794,0.091327266
+9,BDFFP (Florestal),clearing and regrowth,control,31,0.063508167,0.040041897,0.086974437
+9,BDFFP (Florestal),clearing and regrowth,control,32,0.040219798,0.020880639,0.059558957
+9,BDFFP (Florestal),clearing and regrowth,control,33,0.013272651,0.004415037,0.022130265
+9,BDFFP (Florestal),clearing and regrowth,control,34,0.006339069,0.002556498,0.010121641
+9,BDFFP (Florestal),clearing and regrowth,control,35,0.016974492,0.003270139,0.030678845
+9,BDFFP (Florestal),clearing and regrowth,control,36,0.007595683,0.000637113,0.014554253
+9,BDFFP (Florestal),clearing and regrowth,control,37,0.002147032,-0.000722376,0.005016441
+9,BDFFP (Florestal),clearing and regrowth,control,38,0.004292386,-0.003103891,0.011688663
+9,BDFFP (Florestal),clearing and regrowth,control,39,0.001854934,-0.001665556,0.005375424
+9,BDFFP (Florestal),clearing and regrowth,control,40,0.000462105,-0.00044362,0.00136783
+9,BDFFP (Florestal),clearing and regrowth,control,41,0.002002429,-0.00183825,0.005843109
+9,BDFFP (Florestal),clearing and regrowth,control,42,0.000107389,-0.000103094,0.000317872
+9,BDFFP (Florestal),clearing and regrowth,control,43,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,44,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,45,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,46,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,47,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,48,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,49,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,50,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,51,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,52,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,53,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,54,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,55,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,56,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,57,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,58,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,59,0,0,0
+9,BDFFP (Florestal),clearing and regrowth,control,60,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,1,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,2,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,3,0.259551269,0.232395077,0.28670746
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,4,0.478212005,0.430282572,0.526141438
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,5,0.382544078,0.343147106,0.42194105
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,6,0.381355468,0.343054929,0.419656007
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,7,0.388517757,0.348068172,0.428967343
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,8,0.407249729,0.360661578,0.453837881
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,9,0.350198353,0.31023785,0.390158857
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,10,0.325390474,0.28513393,0.365647018
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,11,0.303540231,0.259030272,0.34805019
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,12,0.316131233,0.266910668,0.365351797
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,13,0.236634289,0.193212647,0.280055932
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,14,0.209540888,0.161553893,0.257527882
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,15,0.1509022,0.119680308,0.182124091
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,16,0.12538381,0.091468051,0.159299569
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,17,0.127419608,0.097276333,0.157562884
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,18,0.132549035,0.099561899,0.165536172
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,19,0.107283626,0.076678695,0.137888558
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,20,0.105278307,0.079688233,0.130868381
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,21,0.116512251,0.089733129,0.143291374
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,22,0.113670131,0.079488248,0.147852014
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,23,0.099684826,0.071832295,0.127537357
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,24,0.061965302,0.038252032,0.085678571
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,25,0.072929769,0.048547495,0.097312042
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,26,0.051252133,0.030271091,0.072233174
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,27,0.028710712,0.010781471,0.046639953
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,28,0.024456403,0.010563706,0.0383491
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,29,0.022825351,0.003400991,0.042249711
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,30,0.016860002,0.001157634,0.032562369
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,31,0.005915501,-0.001099323,0.012930325
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,32,0.002764319,-0.000668007,0.006196645
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,33,0.002755906,-0.002645669,0.008157481
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,34,0.001455243,-0.001397033,0.00430752
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,35,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,36,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,37,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,38,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,39,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,40,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,41,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,42,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,43,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,44,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,45,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,46,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,47,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,48,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,49,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,50,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,51,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,52,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,53,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,54,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,55,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,56,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,57,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,58,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,59,0,0,0
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,60,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,1,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,2,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,3,0.296969117,0.263289543,0.330648691
+10,BDFFP (Florestal),clearing and regrowth,control,4,0.562783362,0.5146526,0.610914124
+10,BDFFP (Florestal),clearing and regrowth,control,5,0.347694981,0.306958356,0.388431606
+10,BDFFP (Florestal),clearing and regrowth,control,6,0.289056736,0.25212076,0.325992711
+10,BDFFP (Florestal),clearing and regrowth,control,7,0.26939563,0.23106835,0.307722909
+10,BDFFP (Florestal),clearing and regrowth,control,8,0.290764395,0.251321569,0.330207221
+10,BDFFP (Florestal),clearing and regrowth,control,9,0.277327817,0.237307969,0.317347664
+10,BDFFP (Florestal),clearing and regrowth,control,10,0.227287361,0.189946103,0.264628618
+10,BDFFP (Florestal),clearing and regrowth,control,11,0.214351271,0.183167649,0.245534894
+10,BDFFP (Florestal),clearing and regrowth,control,12,0.261657177,0.222558167,0.300756187
+10,BDFFP (Florestal),clearing and regrowth,control,13,0.207154667,0.167980061,0.246329273
+10,BDFFP (Florestal),clearing and regrowth,control,14,0.211266175,0.173378125,0.249154224
+10,BDFFP (Florestal),clearing and regrowth,control,15,0.233408782,0.195227543,0.271590021
+10,BDFFP (Florestal),clearing and regrowth,control,16,0.235282324,0.194475754,0.276088893
+10,BDFFP (Florestal),clearing and regrowth,control,17,0.231675891,0.191087095,0.272264687
+10,BDFFP (Florestal),clearing and regrowth,control,18,0.216949267,0.178532703,0.25536583
+10,BDFFP (Florestal),clearing and regrowth,control,19,0.194436947,0.158920616,0.229953277
+10,BDFFP (Florestal),clearing and regrowth,control,20,0.174375564,0.143279467,0.20547166
+10,BDFFP (Florestal),clearing and regrowth,control,21,0.172476053,0.141415564,0.203536541
+10,BDFFP (Florestal),clearing and regrowth,control,22,0.147052257,0.117533727,0.176570787
+10,BDFFP (Florestal),clearing and regrowth,control,23,0.149217175,0.118379579,0.180054772
+10,BDFFP (Florestal),clearing and regrowth,control,24,0.125535869,0.095068253,0.156003485
+10,BDFFP (Florestal),clearing and regrowth,control,25,0.115958528,0.084414108,0.147502948
+10,BDFFP (Florestal),clearing and regrowth,control,26,0.141696398,0.104211818,0.179180977
+10,BDFFP (Florestal),clearing and regrowth,control,27,0.123634432,0.090725301,0.156543564
+10,BDFFP (Florestal),clearing and regrowth,control,28,0.100532411,0.072339064,0.128725757
+10,BDFFP (Florestal),clearing and regrowth,control,29,0.06072208,0.037410365,0.084033796
+10,BDFFP (Florestal),clearing and regrowth,control,30,0.070303333,0.0492794,0.091327266
+10,BDFFP (Florestal),clearing and regrowth,control,31,0.063508167,0.040041897,0.086974437
+10,BDFFP (Florestal),clearing and regrowth,control,32,0.040219798,0.020880639,0.059558957
+10,BDFFP (Florestal),clearing and regrowth,control,33,0.013272651,0.004415037,0.022130265
+10,BDFFP (Florestal),clearing and regrowth,control,34,0.006339069,0.002556498,0.010121641
+10,BDFFP (Florestal),clearing and regrowth,control,35,0.016974492,0.003270139,0.030678845
+10,BDFFP (Florestal),clearing and regrowth,control,36,0.007595683,0.000637113,0.014554253
+10,BDFFP (Florestal),clearing and regrowth,control,37,0.002147032,-0.000722376,0.005016441
+10,BDFFP (Florestal),clearing and regrowth,control,38,0.004292386,-0.003103891,0.011688663
+10,BDFFP (Florestal),clearing and regrowth,control,39,0.001854934,-0.001665556,0.005375424
+10,BDFFP (Florestal),clearing and regrowth,control,40,0.000462105,-0.00044362,0.00136783
+10,BDFFP (Florestal),clearing and regrowth,control,41,0.002002429,-0.00183825,0.005843109
+10,BDFFP (Florestal),clearing and regrowth,control,42,0.000107389,-0.000103094,0.000317872
+10,BDFFP (Florestal),clearing and regrowth,control,43,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,44,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,45,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,46,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,47,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,48,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,49,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,50,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,51,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,52,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,53,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,54,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,55,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,56,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,57,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,58,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,59,0,0,0
+10,BDFFP (Florestal),clearing and regrowth,control,60,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,1,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,2,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,3,0.203522875,0.177566206,0.229479544
+10,BDFFP (Vismia),clearing and regrowth,disturbed,4,0.385259781,0.337622948,0.432896614
+10,BDFFP (Vismia),clearing and regrowth,disturbed,5,0.380483651,0.336707003,0.4242603
+10,BDFFP (Vismia),clearing and regrowth,disturbed,6,0.372400788,0.325868277,0.418933299
+10,BDFFP (Vismia),clearing and regrowth,disturbed,7,0.385670607,0.336214405,0.435126809
+10,BDFFP (Vismia),clearing and regrowth,disturbed,8,0.425055975,0.374487966,0.475623984
+10,BDFFP (Vismia),clearing and regrowth,disturbed,9,0.430854304,0.375066256,0.486642352
+10,BDFFP (Vismia),clearing and regrowth,disturbed,10,0.37997018,0.334496896,0.425443463
+10,BDFFP (Vismia),clearing and regrowth,disturbed,11,0.376548035,0.323324289,0.429771782
+10,BDFFP (Vismia),clearing and regrowth,disturbed,12,0.311096859,0.266919634,0.355274084
+10,BDFFP (Vismia),clearing and regrowth,disturbed,13,0.261651298,0.215350312,0.307952284
+10,BDFFP (Vismia),clearing and regrowth,disturbed,14,0.227945514,0.187418818,0.26847221
+10,BDFFP (Vismia),clearing and regrowth,disturbed,15,0.237061013,0.190603367,0.283518659
+10,BDFFP (Vismia),clearing and regrowth,disturbed,16,0.185251408,0.141907008,0.228595807
+10,BDFFP (Vismia),clearing and regrowth,disturbed,17,0.16032317,0.118657395,0.201988944
+10,BDFFP (Vismia),clearing and regrowth,disturbed,18,0.096548209,0.066890724,0.126205693
+10,BDFFP (Vismia),clearing and regrowth,disturbed,19,0.061906191,0.039541382,0.084271001
+10,BDFFP (Vismia),clearing and regrowth,disturbed,20,0.035191114,0.017198851,0.053183377
+10,BDFFP (Vismia),clearing and regrowth,disturbed,21,0.033737657,0.015409525,0.05206579
+10,BDFFP (Vismia),clearing and regrowth,disturbed,22,0.015783294,0.002806857,0.02875973
+10,BDFFP (Vismia),clearing and regrowth,disturbed,23,0.008699147,0.001259857,0.016138437
+10,BDFFP (Vismia),clearing and regrowth,disturbed,24,0.001756045,-0.001443627,0.004955717
+10,BDFFP (Vismia),clearing and regrowth,disturbed,25,0.001153251,-0.001041467,0.003347968
+10,BDFFP (Vismia),clearing and regrowth,disturbed,26,1.84E-05,-1.77E-05,5.45E-05
+10,BDFFP (Vismia),clearing and regrowth,disturbed,27,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,28,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,29,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,30,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,31,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,32,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,33,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,34,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,35,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,36,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,37,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,38,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,39,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,40,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,41,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,42,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,43,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,44,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,45,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,46,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,47,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,48,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,49,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,50,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,51,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,52,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,53,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,54,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,55,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,56,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,57,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,58,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,59,0,0,0
+10,BDFFP (Vismia),clearing and regrowth,disturbed,60,0,0,0
+11,TNF K83,clearing and regrowth,control,1,0,0,0
+11,TNF K83,clearing and regrowth,control,2,0,0,0
+11,TNF K83,clearing and regrowth,control,3,0.006755215,0.000519724,0.012990706
+11,TNF K83,clearing and regrowth,control,4,0.181012304,0.106781703,0.255242905
+11,TNF K83,clearing and regrowth,control,5,0.323491128,0.262230897,0.38475136
+11,TNF K83,clearing and regrowth,control,6,0.319321948,0.209269062,0.429374834
+11,TNF K83,clearing and regrowth,control,7,0.192395225,0.109419731,0.275370719
+11,TNF K83,clearing and regrowth,control,8,0.24732063,0.152026252,0.342615009
+11,TNF K83,clearing and regrowth,control,9,0.269831225,0.159603712,0.380058738
+11,TNF K83,clearing and regrowth,control,10,0.296410095,0.133397839,0.459422351
+11,TNF K83,clearing and regrowth,control,11,0.299194233,0.223670876,0.37471759
+11,TNF K83,clearing and regrowth,control,12,0.245598048,0.159644657,0.33155144
+11,TNF K83,clearing and regrowth,control,13,0.270264551,0.15205928,0.388469823
+11,TNF K83,clearing and regrowth,control,14,0.255568488,0.144406667,0.36673031
+11,TNF K83,clearing and regrowth,control,15,0.300835,0.218111588,0.383558412
+11,TNF K83,clearing and regrowth,control,16,0.24589258,0.158565635,0.333219525
+11,TNF K83,clearing and regrowth,control,17,0.274370068,0.177397723,0.371342414
+11,TNF K83,clearing and regrowth,control,18,0.267193376,0.111030751,0.423356002
+11,TNF K83,clearing and regrowth,control,19,0.272419602,0.157777118,0.387062085
+11,TNF K83,clearing and regrowth,control,20,0.246140848,0.157224946,0.33505675
+11,TNF K83,clearing and regrowth,control,21,0.219418048,0.14583513,0.293000966
+11,TNF K83,clearing and regrowth,control,22,0.193555574,0.115883978,0.27122717
+11,TNF K83,clearing and regrowth,control,23,0.205643478,0.10712235,0.304164605
+11,TNF K83,clearing and regrowth,control,24,0.115477477,0.041799693,0.18915526
+11,TNF K83,clearing and regrowth,control,25,0.160909331,0.066781665,0.255036996
+11,TNF K83,clearing and regrowth,control,26,0.102468117,0.03840187,0.166534364
+11,TNF K83,clearing and regrowth,control,27,0.105171439,0.011355921,0.198986957
+11,TNF K83,clearing and regrowth,control,28,0.051038426,0.009724604,0.092352248
+11,TNF K83,clearing and regrowth,control,29,0.046520761,0.007323354,0.085718167
+11,TNF K83,clearing and regrowth,control,30,0.059217685,0.002647949,0.115787421
+11,TNF K83,clearing and regrowth,control,31,0.02489455,-0.003779582,0.053568682
+11,TNF K83,clearing and regrowth,control,32,0.006087115,-0.001934699,0.01410893
+11,TNF K83,clearing and regrowth,control,33,0.0147528,-0.011289811,0.040795412
+11,TNF K83,clearing and regrowth,control,34,0.003967044,-0.000982815,0.008916902
+11,TNF K83,clearing and regrowth,control,35,0.001307041,-0.001044874,0.003658957
+11,TNF K83,clearing and regrowth,control,36,0.005103698,-0.000764381,0.010971776
+11,TNF K83,clearing and regrowth,control,37,0.011984569,0.000279872,0.023689266
+11,TNF K83,clearing and regrowth,control,38,0.031182925,-0.002888182,0.065254031
+11,TNF K83,clearing and regrowth,control,39,0.064956789,-0.032182631,0.162096209
+11,TNF K83,clearing and regrowth,control,40,0.007469512,-0.002869356,0.01780838
+11,TNF K83,clearing and regrowth,control,41,0.006728151,-0.005055712,0.018512015
+11,TNF K83,clearing and regrowth,control,42,0,0,0
+11,TNF K83,clearing and regrowth,control,43,0,0,0
+11,TNF K83,clearing and regrowth,control,44,0.005456517,-0.005238256,0.01615129
+11,TNF K83,clearing and regrowth,control,45,0.001056013,-0.001013773,0.003125799
+11,TNF K83,clearing and regrowth,control,46,0,0,0
+11,TNF K83,clearing and regrowth,control,47,0,0,0
+11,TNF K83,clearing and regrowth,control,48,0,0,0
+11,TNF K83,clearing and regrowth,control,49,0,0,0
+11,TNF K83,clearing and regrowth,control,50,0,0,0
+11,TNF K83,clearing and regrowth,control,51,0,0,0
+11,TNF K83,clearing and regrowth,control,52,0,0,0
+11,TNF K83,clearing and regrowth,control,53,0,0,0
+11,TNF K83,clearing and regrowth,control,54,0,0,0
+11,TNF K83,clearing and regrowth,control,55,0,0,0
+11,TNF K83,clearing and regrowth,control,56,0,0,0
+11,TNF K83,clearing and regrowth,control,57,0,0,0
+11,TNF K83,clearing and regrowth,control,58,0,0,0
+11,TNF K83,clearing and regrowth,control,59,0,0,0
+11,TNF K83,clearing and regrowth,control,60,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,1,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,2,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,3,0.057164296,0.039386155,0.074942436
+11,TNF K81,clearing and regrowth,disturbed,4,0.327023507,0.270540056,0.383506959
+11,TNF K81,clearing and regrowth,disturbed,5,0.474841836,0.369390614,0.580293058
+11,TNF K81,clearing and regrowth,disturbed,6,0.400606347,0.321575015,0.479637678
+11,TNF K81,clearing and regrowth,disturbed,7,0.505660937,0.351679053,0.65964282
+11,TNF K81,clearing and regrowth,disturbed,8,0.471630894,0.334044414,0.609217374
+11,TNF K81,clearing and regrowth,disturbed,9,0.372927527,0.287901004,0.457954049
+11,TNF K81,clearing and regrowth,disturbed,10,0.357041851,0.247056261,0.46702744
+11,TNF K81,clearing and regrowth,disturbed,11,0.345447437,0.277763746,0.413131128
+11,TNF K81,clearing and regrowth,disturbed,12,0.28536859,0.182998073,0.387739106
+11,TNF K81,clearing and regrowth,disturbed,13,0.228053537,0.128327668,0.327779406
+11,TNF K81,clearing and regrowth,disturbed,14,0.248727731,0.149299878,0.348155585
+11,TNF K81,clearing and regrowth,disturbed,15,0.253153625,0.157929354,0.348377896
+11,TNF K81,clearing and regrowth,disturbed,16,0.280779955,0.146471495,0.415088415
+11,TNF K81,clearing and regrowth,disturbed,17,0.211034453,0.117755521,0.304313384
+11,TNF K81,clearing and regrowth,disturbed,18,0.179970865,0.098247913,0.261693817
+11,TNF K81,clearing and regrowth,disturbed,19,0.179498028,0.115343506,0.243652549
+11,TNF K81,clearing and regrowth,disturbed,20,0.136217626,0.066678462,0.20575679
+11,TNF K81,clearing and regrowth,disturbed,21,0.159555438,0.074494837,0.244616039
+11,TNF K81,clearing and regrowth,disturbed,22,0.068940605,0.02025698,0.117624231
+11,TNF K81,clearing and regrowth,disturbed,23,0.062886657,0.017356659,0.108416656
+11,TNF K81,clearing and regrowth,disturbed,24,0.084347107,0.020746241,0.147947973
+11,TNF K81,clearing and regrowth,disturbed,25,0.042484588,0.003200621,0.081768554
+11,TNF K81,clearing and regrowth,disturbed,26,0.038590049,0.000754363,0.076425735
+11,TNF K81,clearing and regrowth,disturbed,27,0.01152477,-0.004263205,0.027312746
+11,TNF K81,clearing and regrowth,disturbed,28,0.007024702,-0.004209716,0.018259121
+11,TNF K81,clearing and regrowth,disturbed,29,0.029356658,-0.025466826,0.084180142
+11,TNF K81,clearing and regrowth,disturbed,30,0.000566051,-0.000416635,0.001548737
+11,TNF K81,clearing and regrowth,disturbed,31,0.001828617,-0.001755473,0.005412708
+11,TNF K81,clearing and regrowth,disturbed,32,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,33,0.001773803,-0.00170285,0.005250456
+11,TNF K81,clearing and regrowth,disturbed,34,0.00126278,-0.001212269,0.003737828
+11,TNF K81,clearing and regrowth,disturbed,35,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,36,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,37,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,38,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,39,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,40,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,41,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,42,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,43,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,44,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,45,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,46,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,47,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,48,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,49,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,50,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,51,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,52,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,53,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,54,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,55,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,56,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,57,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,58,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,59,0,0,0
+11,TNF K81,clearing and regrowth,disturbed,60,0,0,0
+NA,Alter do Chão,savanna,NA,1,0,0,0
+NA,Alter do Chão,savanna,NA,2,0,0,0
+NA,Alter do Chão,savanna,NA,3,0.047702403,0.036875667,0.05852914
+NA,Alter do Chão,savanna,NA,4,0.045422465,0.030649186,0.060195744
+NA,Alter do Chão,savanna,NA,5,0.065639095,0.042730291,0.088547899
+NA,Alter do Chão,savanna,NA,6,0.07955819,0.05477837,0.104338011
+NA,Alter do Chão,savanna,NA,7,0.064327499,0.042251926,0.086403071
+NA,Alter do Chão,savanna,NA,8,0.035354361,0.019428735,0.051279986
+NA,Alter do Chão,savanna,NA,9,0.015796022,0.006567861,0.025024184
+NA,Alter do Chão,savanna,NA,10,0.003418589,-3.83E-05,0.006875496
+NA,Alter do Chão,savanna,NA,11,0.002454934,-0.000265359,0.005175227
+NA,Alter do Chão,savanna,NA,12,0.001158912,-0.0010781,0.003395924
+NA,Alter do Chão,savanna,NA,13,0.000160255,-0.000124121,0.000444632
+NA,Alter do Chão,savanna,NA,14,3.31E-06,-1.92E-06,8.54E-06
+NA,Alter do Chão,savanna,NA,15,1.52E-05,-7.29E-06,3.77E-05
+NA,Alter do Chão,savanna,NA,16,6.25E-06,-1.68E-06,1.42E-05
+NA,Alter do Chão,savanna,NA,17,6.42E-06,-3.01E-06,1.59E-05
+NA,Alter do Chão,savanna,NA,18,4.55E-06,-2.45E-06,1.16E-05
+NA,Alter do Chão,savanna,NA,19,3.57E-06,-1.33E-06,8.46E-06
+NA,Alter do Chão,savanna,NA,20,2.87E-06,-1.13E-06,6.87E-06
+NA,Alter do Chão,savanna,NA,21,5.41E-06,-2.06E-06,1.29E-05
+NA,Alter do Chão,savanna,NA,22,1.72E-06,-6.38E-07,4.08E-06
+NA,Alter do Chão,savanna,NA,23,2.00E-06,-1.92E-06,5.92E-06
+NA,Alter do Chão,savanna,NA,24,1.18E-06,-1.13E-06,3.49E-06
+NA,Alter do Chão,savanna,NA,25,0,0,0
+NA,Alter do Chão,savanna,NA,26,0,0,0
+NA,Alter do Chão,savanna,NA,27,0,0,0
+NA,Alter do Chão,savanna,NA,28,1.14E-06,-1.10E-06,3.38E-06
+NA,Alter do Chão,savanna,NA,29,0,0,0
+NA,Alter do Chão,savanna,NA,30,0,0,0
+NA,Alter do Chão,savanna,NA,31,1.99E-06,-8.39E-07,4.82E-06
+NA,Alter do Chão,savanna,NA,32,0,0,0
+NA,Alter do Chão,savanna,NA,33,1.75E-06,-1.68E-06,5.17E-06
+NA,Alter do Chão,savanna,NA,34,0,0,0
+NA,Alter do Chão,savanna,NA,35,0,0,0
+NA,Alter do Chão,savanna,NA,36,0,0,0
+NA,Alter do Chão,savanna,NA,37,0,0,0
+NA,Alter do Chão,savanna,NA,38,0,0,0
+NA,Alter do Chão,savanna,NA,39,0,0,0
+NA,Alter do Chão,savanna,NA,40,0,0,0
+NA,Alter do Chão,savanna,NA,41,0,0,0
+NA,Alter do Chão,savanna,NA,42,0,0,0
+NA,Alter do Chão,savanna,NA,43,0,0,0
+NA,Alter do Chão,savanna,NA,44,0,0,0
+NA,Alter do Chão,savanna,NA,45,0,0,0
+NA,Alter do Chão,savanna,NA,46,0,0,0
+NA,Alter do Chão,savanna,NA,47,0,0,0
+NA,Alter do Chão,savanna,NA,48,0,0,0
+NA,Alter do Chão,savanna,NA,49,0,0,0
+NA,Alter do Chão,savanna,NA,50,0,0,0
+NA,Alter do Chão,savanna,NA,51,0,0,0
+NA,Alter do Chão,savanna,NA,52,0,0,0
+NA,Alter do Chão,savanna,NA,53,0,0,0
+NA,Alter do Chão,savanna,NA,54,0,0,0
+NA,Alter do Chão,savanna,NA,55,0,0,0
+NA,Alter do Chão,savanna,NA,56,0,0,0
+NA,Alter do Chão,savanna,NA,57,0,0,0
+NA,Alter do Chão,savanna,NA,58,0,0,0
+NA,Alter do Chão,savanna,NA,59,0,0,0
+NA,Alter do Chão,savanna,NA,60,0,0,0
+NA,mean profiles,NA,control,1,0,0,0
+NA,mean profiles,NA,control,2,0,0,0
+NA,mean profiles,NA,control,3,0.129574862,0.05410523,0.205044494
+NA,mean profiles,NA,control,4,0.37551978,0.283114134,0.467925427
+NA,mean profiles,NA,control,5,0.35821968,0.314564455,0.401874904
+NA,mean profiles,NA,control,6,0.35210317,0.300700324,0.403506015
+NA,mean profiles,NA,control,7,0.315523115,0.25292711,0.378119121
+NA,mean profiles,NA,control,8,0.316233754,0.266527471,0.365940036
+NA,mean profiles,NA,control,9,0.306677189,0.263066961,0.350287417
+NA,mean profiles,NA,control,10,0.28489538,0.240923019,0.328867741
+NA,mean profiles,NA,control,11,0.276788269,0.239360264,0.314216274
+NA,mean profiles,NA,control,12,0.2597971,0.227072624,0.292521576
+NA,mean profiles,NA,control,13,0.233709794,0.205129545,0.262290044
+NA,mean profiles,NA,control,14,0.231119192,0.208599924,0.25363846
+NA,mean profiles,NA,control,15,0.237334459,0.212461245,0.262207672
+NA,mean profiles,NA,control,16,0.219033146,0.196694712,0.241371581
+NA,mean profiles,NA,control,17,0.210815929,0.174622872,0.247008985
+NA,mean profiles,NA,control,18,0.206011771,0.172242399,0.239781144
+NA,mean profiles,NA,control,19,0.194903141,0.158552181,0.231254102
+NA,mean profiles,NA,control,20,0.177347437,0.140779816,0.213915058
+NA,mean profiles,NA,control,21,0.166621449,0.137221719,0.196021179
+NA,mean profiles,NA,control,22,0.149076663,0.116957672,0.181195653
+NA,mean profiles,NA,control,23,0.140897911,0.109296563,0.172499258
+NA,mean profiles,NA,control,24,0.106601987,0.08418821,0.129015765
+NA,mean profiles,NA,control,25,0.108227526,0.08436193,0.132093123
+NA,mean profiles,NA,control,26,0.098792115,0.075294751,0.122289479
+NA,mean profiles,NA,control,27,0.091071514,0.067938661,0.114204368
+NA,mean profiles,NA,control,28,0.064939254,0.047218952,0.082659555
+NA,mean profiles,NA,control,29,0.04644998,0.035799557,0.057100404
+NA,mean profiles,NA,control,30,0.045828721,0.032372206,0.059285237
+NA,mean profiles,NA,control,31,0.0366966,0.022619206,0.050773994
+NA,mean profiles,NA,control,32,0.025144752,0.013698541,0.036590964
+NA,mean profiles,NA,control,33,0.018281977,0.00885873,0.027705224
+NA,mean profiles,NA,control,34,0.009950668,0.003956062,0.015945274
+NA,mean profiles,NA,control,35,0.010347994,0.004865737,0.015830251
+NA,mean profiles,NA,control,36,0.007047518,0.003691739,0.010403297
+NA,mean profiles,NA,control,37,0.005464449,0.002261877,0.008667022
+NA,mean profiles,NA,control,38,0.008795312,0.001986189,0.015604436
+NA,mean profiles,NA,control,39,0.013497655,-0.001570551,0.028565861
+NA,mean profiles,NA,control,40,0.002543603,0.000440354,0.004646851
+NA,mean profiles,NA,control,41,0.002050052,0.000584947,0.003515157
+NA,mean profiles,NA,control,42,0.001574958,-0.000534686,0.003684603
+NA,mean profiles,NA,control,43,0.000479523,-0.000245412,0.001204457
+NA,mean profiles,NA,control,44,0.001669131,-4.74E-05,0.00338562
+NA,mean profiles,NA,control,45,0.000982522,-0.000549734,0.002514778
+NA,mean profiles,NA,control,46,0.000519696,-0.000498908,0.001538299
+NA,mean profiles,NA,control,47,0,0,0
+NA,mean profiles,NA,control,48,1.47E-07,-1.42E-07,4.36E-07
+NA,mean profiles,NA,control,49,0,0,0
+NA,mean profiles,NA,control,50,0,0,0
+NA,mean profiles,NA,control,51,0,0,0
+NA,mean profiles,NA,control,52,0,0,0
+NA,mean profiles,NA,control,53,0.000464739,-0.00044615,0.001375629
+NA,mean profiles,NA,control,54,0.000416338,-0.000399685,0.001232362
+NA,mean profiles,NA,control,55,0,0,0
+NA,mean profiles,NA,control,56,0,0,0
+NA,mean profiles,NA,control,57,0,0,0
+NA,mean profiles,NA,control,58,0,0,0
+NA,mean profiles,NA,control,59,0,0,0
+NA,mean profiles,NA,control,60,0,0,0
+NA,mean profiles,NA,disturbed,1,0,0,0
+NA,mean profiles,NA,disturbed,2,0,0,0
+NA,mean profiles,NA,disturbed,3,0.104167336,0.052862221,0.15547245
+NA,mean profiles,NA,disturbed,4,0.333970241,0.250334569,0.417605912
+NA,mean profiles,NA,disturbed,5,0.362061118,0.287117389,0.437004848
+NA,mean profiles,NA,disturbed,6,0.354589855,0.279107135,0.430072575
+NA,mean profiles,NA,disturbed,7,0.378277683,0.294020037,0.462535329
+NA,mean profiles,NA,disturbed,8,0.362278584,0.289178807,0.43537836
+NA,mean profiles,NA,disturbed,9,0.340311943,0.279549089,0.401074796
+NA,mean profiles,NA,disturbed,10,0.305969783,0.252868159,0.359071408
+NA,mean profiles,NA,disturbed,11,0.288676744,0.238289254,0.339064234
+NA,mean profiles,NA,disturbed,12,0.267093434,0.222033415,0.312153452
+NA,mean profiles,NA,disturbed,13,0.245622768,0.203555345,0.287690192
+NA,mean profiles,NA,disturbed,14,0.221732819,0.191792488,0.251673151
+NA,mean profiles,NA,disturbed,15,0.200849162,0.16646751,0.235230814
+NA,mean profiles,NA,disturbed,16,0.189177527,0.154380126,0.223974928
+NA,mean profiles,NA,disturbed,17,0.167824266,0.137667349,0.197981183
+NA,mean profiles,NA,disturbed,18,0.155532961,0.119163226,0.191902696
+NA,mean profiles,NA,disturbed,19,0.132147469,0.09569088,0.168604057
+NA,mean profiles,NA,disturbed,20,0.1157838,0.081052744,0.150514855
+NA,mean profiles,NA,disturbed,21,0.110560724,0.075065567,0.146055881
+NA,mean profiles,NA,disturbed,22,0.08957169,0.058612771,0.12053061
+NA,mean profiles,NA,disturbed,23,0.083131307,0.049011763,0.117250852
+NA,mean profiles,NA,disturbed,24,0.066791401,0.041207778,0.092375024
+NA,mean profiles,NA,disturbed,25,0.056493725,0.033075764,0.079911686
+NA,mean profiles,NA,disturbed,26,0.042834927,0.022739573,0.06293028
+NA,mean profiles,NA,disturbed,27,0.040154583,0.015805368,0.064503798
+NA,mean profiles,NA,disturbed,28,0.031513867,0.014250064,0.04877767
+NA,mean profiles,NA,disturbed,29,0.029777895,0.014507027,0.045048764
+NA,mean profiles,NA,disturbed,30,0.021689072,0.006414325,0.036963819
+NA,mean profiles,NA,disturbed,31,0.015808362,0.003662455,0.027954268
+NA,mean profiles,NA,disturbed,32,0.012150406,0.004422266,0.019878545
+NA,mean profiles,NA,disturbed,33,0.012230363,0.001055094,0.023405633
+NA,mean profiles,NA,disturbed,34,0.011357393,0.002201372,0.020513414
+NA,mean profiles,NA,disturbed,35,0.006408921,-0.000351008,0.01316885
+NA,mean profiles,NA,disturbed,36,0.006773374,-0.000392644,0.013939392
+NA,mean profiles,NA,disturbed,37,0.004635992,-0.001331738,0.010603723
+NA,mean profiles,NA,disturbed,38,0.003951638,4.10E-05,0.007862261
+NA,mean profiles,NA,disturbed,39,0.001826032,-0.000863993,0.004516058
+NA,mean profiles,NA,disturbed,40,0.001911383,-0.001315893,0.00513866
+NA,mean profiles,NA,disturbed,41,0.001403051,-0.000530815,0.003336918
+NA,mean profiles,NA,disturbed,42,0.000559073,-0.000157421,0.001275567
+NA,mean profiles,NA,disturbed,43,0.000413314,-0.000396722,0.001223349
+NA,mean profiles,NA,disturbed,44,0.000239139,-0.000229574,0.000707852
+NA,mean profiles,NA,disturbed,45,8.69E-06,-8.34E-06,2.57E-05
+NA,mean profiles,NA,disturbed,46,0,0,0
+NA,mean profiles,NA,disturbed,47,0,0,0
+NA,mean profiles,NA,disturbed,48,0,0,0
+NA,mean profiles,NA,disturbed,49,0,0,0
+NA,mean profiles,NA,disturbed,50,0,0,0
+NA,mean profiles,NA,disturbed,51,0,0,0
+NA,mean profiles,NA,disturbed,52,0,0,0
+NA,mean profiles,NA,disturbed,53,0,0,0
+NA,mean profiles,NA,disturbed,54,0,0,0
+NA,mean profiles,NA,disturbed,55,0,0,0
+NA,mean profiles,NA,disturbed,56,0,0,0
+NA,mean profiles,NA,disturbed,57,0,0,0
+NA,mean profiles,NA,disturbed,58,0,0,0
+NA,mean profiles,NA,disturbed,59,0,0,0
+NA,mean profiles,NA,disturbed,60,0,0,0

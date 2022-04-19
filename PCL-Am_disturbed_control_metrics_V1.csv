@@ -1,0 +1,254 @@
+treat.pair,site,disturbance.type,disturbed/control,metric,value,lowCI,uppCI
+1,TNF Seca Floresta,drought,control,ERR,0.537853083,0.499450651,0.576255514
+1,TNF Seca Floresta,drought,control,gap.frac,0.031666667,0.008417001,0.054916333
+1,TNF Seca Floresta,drought,control,hetero.frac,1.583333333,NA,NA
+1,TNF Seca Floresta,drought,control,ht.light50,13.76666667,11.99683552,15.53649781
+1,TNF Seca Floresta,drought,control,lahv,68.30933072,59.68782355,76.93083789
+1,TNF Seca Floresta,drought,control,lai,5.62232042,5.284576059,5.960064781
+1,TNF Seca Floresta,drought,control,lai50,9.333333333,8.46015953,10.20650714
+1,TNF Seca Floresta,drought,control,lawh,11.86595153,10.74720302,12.98470004
+1,TNF Seca Floresta,drought,control,max.can.ht,40,NA,NA
+1,TNF Seca Floresta,drought,control,mean.can.ht,21.07800702,19.1102932,23.04572085
+1,TNF Seca Floresta,drought,control,sd.can.ht,6.494005002,5.582163344,7.40584666
+1,TNF Seca Floresta,drought,disturbed,ERR,0.495365769,0.456558598,0.53417294
+1,TNF Seca Floresta,drought,disturbed,gap.frac,0.024137931,0.008287561,0.039988302
+1,TNF Seca Floresta,drought,disturbed,hetero.frac,1.384615385,NA,NA
+1,TNF Seca Floresta,drought,disturbed,ht.light50,12.72413793,11.61977021,13.82850565
+1,TNF Seca Floresta,drought,disturbed,lahv,66.31341359,60.63293359,71.99389359
+1,TNF Seca Floresta,drought,disturbed,lai,5.701044753,5.434925759,5.967163747
+1,TNF Seca Floresta,drought,disturbed,lai50,9.413793103,8.535543845,10.29204236
+1,TNF Seca Floresta,drought,disturbed,lawh,11.57837642,10.82439009,12.33236275
+1,TNF Seca Floresta,drought,disturbed,max.can.ht,37,NA,NA
+1,TNF Seca Floresta,drought,disturbed,mean.can.ht,22.42855212,21.50129975,23.35580449
+1,TNF Seca Floresta,drought,disturbed,sd.can.ht,7.340552562,6.475088858,8.206016266
+2,Caxiuanã,drought,control,ERR,0.528336818,0.484111147,0.572562488
+2,Caxiuanã,drought,control,gap.frac,0.013043478,-0.005662044,0.031749
+2,Caxiuanã,drought,control,hetero.frac,1.15,NA,NA
+2,Caxiuanã,drought,control,ht.light50,20.26086957,18.09753156,22.42420758
+2,Caxiuanã,drought,control,lahv,82.16711251,70.90785983,93.4263652
+2,Caxiuanã,drought,control,lai,5.41200553,5.071855098,5.752155963
+2,Caxiuanã,drought,control,lai50,14.13043478,12.30978253,15.95108704
+2,Caxiuanã,drought,control,lawh,14.89655343,13.48163166,16.3114752
+2,Caxiuanã,drought,control,max.can.ht,46,NA,NA
+2,Caxiuanã,drought,control,mean.can.ht,26.3502976,24.52301174,28.17758346
+2,Caxiuanã,drought,control,sd.can.ht,5.641330138,4.797816967,6.484843309
+2,Caxiuanã,drought,disturbed,ERR,0.519449645,0.490625873,0.548273416
+2,Caxiuanã,drought,disturbed,gap.frac,0,0,0
+2,Caxiuanã,drought,disturbed,hetero.frac,1.136363636,NA,NA
+2,Caxiuanã,drought,disturbed,ht.light50,22.43636364,21.15896582,23.71376145
+2,Caxiuanã,drought,disturbed,lahv,93.19686109,85.98841776,100.4053044
+2,Caxiuanã,drought,disturbed,lai,5.489351199,5.195564908,5.783137489
+2,Caxiuanã,drought,disturbed,lai50,16.03636364,15.01157002,17.06115725
+2,Caxiuanã,drought,disturbed,lawh,16.86795436,16.04752424,17.68838448
+2,Caxiuanã,drought,disturbed,max.can.ht,43,NA,NA
+2,Caxiuanã,drought,disturbed,mean.can.ht,26.5087832,25.4000929,27.6174735
+2,Caxiuanã,drought,disturbed,sd.can.ht,5.674230744,5.063613825,6.284847663
+3,TNF K83,selective logging,control,ERR,0.502488765,0.435513561,0.56946397
+3,TNF K83,selective logging,control,gap.frac,0.008333333,-0.008,0.024666667
+3,TNF K83,selective logging,control,hetero.frac,1.1,NA,NA
+3,TNF K83,selective logging,control,ht.light50,19.83333333,17.25927236,22.40739431
+3,TNF K83,selective logging,control,lahv,91.63485446,75.37316626,107.8965427
+3,TNF K83,selective logging,control,lai,5.958381624,5.400373625,6.516389623
+3,TNF K83,selective logging,control,lai50,14.33333333,12.44389646,16.22277021
+3,TNF K83,selective logging,control,lawh,15.16141811,13.34743143,16.97540479
+3,TNF K83,selective logging,control,max.can.ht,41,NA,NA
+3,TNF K83,selective logging,control,mean.can.ht,23.92544017,20.72841703,27.12246331
+3,TNF K83,selective logging,control,sd.can.ht,4.42314649,3.386821035,5.459471944
+3,TNF K83,selective logging,disturbed,ERR,0.486762526,0.442461643,0.531063409
+3,TNF K83,selective logging,disturbed,gap.frac,0.020833333,0.000469997,0.041196669
+3,TNF K83,selective logging,disturbed,hetero.frac,1.307692308,NA,NA
+3,TNF K83,selective logging,disturbed,ht.light50,13.66666667,12.05910182,15.27423151
+3,TNF K83,selective logging,disturbed,lahv,66.96589881,57.31759404,76.61420358
+3,TNF K83,selective logging,disturbed,lai,5.833775872,5.312552397,6.354999347
+3,TNF K83,selective logging,disturbed,lai50,9.666666667,8.620268658,10.71306468
+3,TNF K83,selective logging,disturbed,lawh,11.19494236,10.17851386,12.21137087
+3,TNF K83,selective logging,disturbed,max.can.ht,36,NA,NA
+3,TNF K83,selective logging,disturbed,mean.can.ht,17.67492429,15.97106548,19.37878311
+3,TNF K83,selective logging,disturbed,sd.can.ht,5.857918814,4.846193023,6.869644604
+4,BDFFP (Dimona fragment),fragmentation,control,ERR,0.561926778,0.537526105,0.586327451
+4,BDFFP (Dimona fragment),fragmentation,control,gap.frac,0.036470588,0.019473665,0.053467512
+4,BDFFP (Dimona fragment),fragmentation,control,hetero.frac,1.222222222,NA,NA
+4,BDFFP (Dimona fragment),fragmentation,control,ht.light50,17.85882353,16.8080043,18.90964276
+4,BDFFP (Dimona fragment),fragmentation,control,lahv,84.14009245,78.82472936,89.45545555
+4,BDFFP (Dimona fragment),fragmentation,control,lai,6.107742133,5.926150824,6.289333441
+4,BDFFP (Dimona fragment),fragmentation,control,lai50,12.24705882,11.44762821,13.04648944
+4,BDFFP (Dimona fragment),fragmentation,control,lawh,13.54943485,12.97460298,14.12426673
+4,BDFFP (Dimona fragment),fragmentation,control,max.can.ht,40,NA,NA
+4,BDFFP (Dimona fragment),fragmentation,control,mean.can.ht,24.71484339,23.89941118,25.53027559
+4,BDFFP (Dimona fragment),fragmentation,control,sd.can.ht,4.615739178,4.223408641,5.008069716
+4,BDFFP (Dimona fragment),fragmentation,disturbed,ERR,0.538659019,0.515871268,0.561446769
+4,BDFFP (Dimona fragment),fragmentation,disturbed,gap.frac,0.017777778,0.008192887,0.027362669
+4,BDFFP (Dimona fragment),fragmentation,disturbed,hetero.frac,1.235294118,NA,NA
+4,BDFFP (Dimona fragment),fragmentation,disturbed,ht.light50,17.4,16.58657708,18.21342292
+4,BDFFP (Dimona fragment),fragmentation,disturbed,lahv,81.72553824,77.19824408,86.25283239
+4,BDFFP (Dimona fragment),fragmentation,disturbed,lai,6.099030189,5.901016712,6.297043667
+4,BDFFP (Dimona fragment),fragmentation,disturbed,lai50,12.3,11.56876365,13.03123635
+4,BDFFP (Dimona fragment),fragmentation,disturbed,lawh,13.3280156,12.80422544,13.85180576
+4,BDFFP (Dimona fragment),fragmentation,disturbed,max.can.ht,40,NA,NA
+4,BDFFP (Dimona fragment),fragmentation,disturbed,mean.can.ht,23.16718169,22.46231589,23.87204749
+4,BDFFP (Dimona fragment),fragmentation,disturbed,sd.can.ht,3.79411205,3.398551922,4.189672177
+5,Reserva Ducke,fragmentation,control,ERR,0.550691775,0.537127971,0.56425558
+5,Reserva Ducke,fragmentation,control,gap.frac,0.015584416,0.010385821,0.02078301
+5,Reserva Ducke,fragmentation,control,hetero.frac,1.1,NA,NA
+5,Reserva Ducke,fragmentation,control,ht.light50,19.6461039,19.1492421,20.1429657
+5,Reserva Ducke,fragmentation,control,lahv,86.64544046,84.15983389,89.13104703
+5,Reserva Ducke,fragmentation,control,lai,5.890647091,5.795608728,5.985685454
+5,Reserva Ducke,fragmentation,control,lai50,13.78896104,13.3588567,14.21906538
+5,Reserva Ducke,fragmentation,control,lawh,14.6543398,14.33110057,14.97757903
+5,Reserva Ducke,fragmentation,control,max.can.ht,40,NA,NA
+5,Reserva Ducke,fragmentation,control,mean.can.ht,22.91538281,22.48703997,23.34372566
+5,Reserva Ducke,fragmentation,control,sd.can.ht,4.391851201,4.170357508,4.613344894
+5,UFAM,fragmentation,disturbed,ERR,0.550491236,0.529732082,0.57125039
+5,UFAM,fragmentation,disturbed,gap.frac,0.024556489,0.015089129,0.03402385
+5,UFAM,fragmentation,disturbed,hetero.frac,1.2,NA,NA
+5,UFAM,fragmentation,disturbed,ht.light50,15.85714286,15.11696584,16.59731987
+5,UFAM,fragmentation,disturbed,lahv,72.77568648,68.68480437,76.86656858
+5,UFAM,fragmentation,disturbed,lai,5.789390167,5.602166256,5.976614079
+5,UFAM,fragmentation,disturbed,lai50,11.34453782,10.76471506,11.92436057
+5,UFAM,fragmentation,disturbed,lawh,12.38454673,11.91089061,12.85820284
+5,UFAM,fragmentation,disturbed,max.can.ht,35,NA,NA
+5,UFAM,fragmentation,disturbed,mean.can.ht,19.4646237,18.74072163,20.18852577
+5,UFAM,fragmentation,disturbed,sd.can.ht,3.676682281,3.327771654,4.025592909
+6,Alter do Chão,fragmentation,control,ERR,0.54110482,0.521377483,0.560832157
+6,Alter do Chão,fragmentation,control,gap.frac,0.106412037,0.081320692,0.131503382
+6,Alter do Chão,fragmentation,control,hetero.frac,1.363636364,NA,NA
+6,Alter do Chão,fragmentation,control,ht.light50,12.20833333,11.46141257,12.95525409
+6,Alter do Chão,fragmentation,control,lahv,52.52496092,48.80633504,56.2435868
+6,Alter do Chão,fragmentation,control,lai,4.96953037,4.785451065,5.153609675
+6,Alter do Chão,fragmentation,control,lai50,9.35,8.76703133,9.93296867
+6,Alter do Chão,fragmentation,control,lawh,10.30766607,9.825422541,10.7899096
+6,Alter do Chão,fragmentation,control,max.can.ht,33,NA,NA
+6,Alter do Chão,fragmentation,control,mean.can.ht,15.45497576,14.68643739,16.22351412
+6,Alter do Chão,fragmentation,control,sd.can.ht,3.603006718,3.291145326,3.914868109
+6,Alter do Chão,fragmentation,disturbed,ERR,0.543710727,0.534540061,0.552881394
+6,Alter do Chão,fragmentation,disturbed,gap.frac,0.070395669,0.060184437,0.080606901
+6,Alter do Chão,fragmentation,disturbed,hetero.frac,1.272727273,NA,NA
+6,Alter do Chão,fragmentation,disturbed,ht.light50,11.74499089,11.46772998,12.0222518
+6,Alter do Chão,fragmentation,disturbed,lahv,47.1136052,45.65646826,48.57074213
+6,Alter do Chão,fragmentation,disturbed,lai,4.642128024,4.550546562,4.733709485
+6,Alter do Chão,fragmentation,disturbed,lai50,9.37704918,9.143355618,9.610742742
+6,Alter do Chão,fragmentation,disturbed,lawh,10.02060868,9.826055892,10.21516148
+6,Alter do Chão,fragmentation,disturbed,max.can.ht,26,NA,NA
+6,Alter do Chão,fragmentation,disturbed,mean.can.ht,13.53474081,13.25765111,13.81183051
+6,Alter do Chão,fragmentation,disturbed,sd.can.ht,2.724530338,2.608291093,2.840769584
+7,Careiro Castanho,fire (terra firme),control,ERR,0.562729125,0.541561179,0.58389707
+7,Careiro Castanho,fire (terra firme),control,gap.frac,0.01,0.004131907,0.015868093
+7,Careiro Castanho,fire (terra firme),control,hetero.frac,1.1875,NA,NA
+7,Careiro Castanho,fire (terra firme),control,ht.light50,16.225,15.54340137,16.90659863
+7,Careiro Castanho,fire (terra firme),control,lahv,78.995756,75.37020857,82.62130344
+7,Careiro Castanho,fire (terra firme),control,lai,6.23667647,6.077144331,6.396208609
+7,Careiro Castanho,fire (terra firme),control,lai50,11.14166667,10.6516415,11.63169183
+7,Careiro Castanho,fire (terra firme),control,lawh,12.55446599,12.16953725,12.93939473
+7,Careiro Castanho,fire (terra firme),control,max.can.ht,34,NA,NA
+7,Careiro Castanho,fire (terra firme),control,mean.can.ht,22.07842171,21.42859584,22.72824758
+7,Careiro Castanho,fire (terra firme),control,sd.can.ht,4.306938331,3.996326714,4.617549947
+7,Careiro Castanho,fire (terra firme),disturbed,ERR,0.558846669,0.537123885,0.580569454
+7,Careiro Castanho,fire (terra firme),disturbed,gap.frac,0.024166667,0.014057016,0.034276317
+7,Careiro Castanho,fire (terra firme),disturbed,hetero.frac,1.285714286,NA,NA
+7,Careiro Castanho,fire (terra firme),disturbed,ht.light50,14.64166667,13.71360905,15.56972428
+7,Careiro Castanho,fire (terra firme),disturbed,lahv,65.36171603,60.90377879,69.81965327
+7,Careiro Castanho,fire (terra firme),disturbed,lai,5.576117955,5.384065134,5.768170776
+7,Careiro Castanho,fire (terra firme),disturbed,lai50,10.19166667,9.460618029,10.9227153
+7,Careiro Castanho,fire (terra firme),disturbed,lawh,11.55806628,10.97031411,12.14581845
+7,Careiro Castanho,fire (terra firme),disturbed,max.can.ht,38,NA,NA
+7,Careiro Castanho,fire (terra firme),disturbed,mean.can.ht,19.47625875,18.57619407,20.37632344
+7,Careiro Castanho,fire (terra firme),disturbed,sd.can.ht,4.907359237,4.53526244,5.279456035
+8,Careiro Castanho,fire (igapo),control,ERR,0.532126142,0.51117322,0.553079065
+8,Careiro Castanho,fire (igapo),control,gap.frac,0.006666667,0.002184837,0.011148496
+8,Careiro Castanho,fire (igapo),control,hetero.frac,1.2,NA,NA
+8,Careiro Castanho,fire (igapo),control,ht.light50,15.35833333,14.59400308,16.12266359
+8,Careiro Castanho,fire (igapo),control,lahv,76.32783813,71.63020977,81.02546649
+8,Careiro Castanho,fire (igapo),control,lai,5.979291632,5.785161548,6.173421716
+8,Careiro Castanho,fire (igapo),control,lai50,11.85,11.19859795,12.50140205
+8,Careiro Castanho,fire (igapo),control,lawh,12.60904779,12.06485296,13.15324261
+8,Careiro Castanho,fire (igapo),control,max.can.ht,38,NA,NA
+8,Careiro Castanho,fire (igapo),control,mean.can.ht,18.33678623,17.63325986,19.0403126
+8,Careiro Castanho,fire (igapo),control,sd.can.ht,3.604527285,3.324966848,3.884087723
+8,Careiro Castanho,fire (igapo),disturbed,ERR,0.471477854,0.441644727,0.501310982
+8,Careiro Castanho,fire (igapo),disturbed,gap.frac,0.34,0.287596258,0.392403742
+8,Careiro Castanho,fire (igapo),disturbed,hetero.frac,2.125,NA,NA
+8,Careiro Castanho,fire (igapo),disturbed,ht.light50,9.441666667,7.995737712,10.88759562
+8,Careiro Castanho,fire (igapo),disturbed,lahv,22.95522159,18.63636377,27.2740794
+8,Careiro Castanho,fire (igapo),disturbed,lai,1.617443899,1.361169594,1.873718205
+8,Careiro Castanho,fire (igapo),disturbed,lai50,11.74166667,10.66850745,12.81482588
+8,Careiro Castanho,fire (igapo),disturbed,lawh,12.14713359,11.2550914,13.03917578
+8,Careiro Castanho,fire (igapo),disturbed,max.can.ht,33,NA,NA
+8,Careiro Castanho,fire (igapo),disturbed,mean.can.ht,11.17915244,9.93575166,12.42255321
+8,Careiro Castanho,fire (igapo),disturbed,sd.can.ht,5.988131766,5.434145974,6.542117557
+9,BDFFP (Florestal),clearing and regrowth,control,ERR,0.561926778,0.537526105,0.586327451
+9,BDFFP (Florestal),clearing and regrowth,control,gap.frac,0.036470588,0.019473665,0.053467512
+9,BDFFP (Florestal),clearing and regrowth,control,hetero.frac,1.222222222,NA,NA
+9,BDFFP (Florestal),clearing and regrowth,control,ht.light50,17.85882353,16.8080043,18.90964276
+9,BDFFP (Florestal),clearing and regrowth,control,lahv,84.14009245,78.82472936,89.45545555
+9,BDFFP (Florestal),clearing and regrowth,control,lai,6.107742133,5.926150824,6.289333441
+9,BDFFP (Florestal),clearing and regrowth,control,lai50,12.24705882,11.44762821,13.04648944
+9,BDFFP (Florestal),clearing and regrowth,control,lawh,13.54943485,12.97460298,14.12426673
+9,BDFFP (Florestal),clearing and regrowth,control,max.can.ht,40,NA,NA
+9,BDFFP (Florestal),clearing and regrowth,control,mean.can.ht,24.71484339,23.89941118,25.53027559
+9,BDFFP (Florestal),clearing and regrowth,control,sd.can.ht,4.615739178,4.223408641,5.008069716
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,ERR,0.58797317,0.565341761,0.610604578
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,gap.frac,0.023595506,0.012735461,0.03445555
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,hetero.frac,1.384615385,NA,NA
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,ht.light50,13.47191011,12.85488777,14.08893246
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,lahv,60.30683127,57.30443699,63.30922555
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,lai,5.409440209,5.254529995,5.564350423
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,lai50,9.247191011,8.819707968,9.674674054
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,lawh,11.05913613,10.71119927,11.40707299
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,max.can.ht,32,NA,NA
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,mean.can.ht,21.22856612,20.70534838,21.75178385
+9,BDFFP (Cecropia),clearing and regrowth,disturbed,sd.can.ht,4.38375178,4.027180606,4.740322955
+10,BDFFP (Florestal),clearing and regrowth,control,ERR,0.561926778,0.537526105,0.586327451
+10,BDFFP (Florestal),clearing and regrowth,control,gap.frac,0.036470588,0.019473665,0.053467512
+10,BDFFP (Florestal),clearing and regrowth,control,hetero.frac,1.222222222,NA,NA
+10,BDFFP (Florestal),clearing and regrowth,control,ht.light50,17.85882353,16.8080043,18.90964276
+10,BDFFP (Florestal),clearing and regrowth,control,lahv,84.14009245,78.82472936,89.45545555
+10,BDFFP (Florestal),clearing and regrowth,control,lai,6.107742133,5.926150824,6.289333441
+10,BDFFP (Florestal),clearing and regrowth,control,lai50,12.24705882,11.44762821,13.04648944
+10,BDFFP (Florestal),clearing and regrowth,control,lawh,13.54943485,12.97460298,14.12426673
+10,BDFFP (Florestal),clearing and regrowth,control,max.can.ht,40,NA,NA
+10,BDFFP (Florestal),clearing and regrowth,control,mean.can.ht,24.71484339,23.89941118,25.53027559
+10,BDFFP (Florestal),clearing and regrowth,control,sd.can.ht,4.615739178,4.223408641,5.008069716
+10,BDFFP (Vismia),clearing and regrowth,disturbed,ERR,0.577639293,0.556611667,0.598666919
+10,BDFFP (Vismia),clearing and regrowth,disturbed,gap.frac,0.035154553,0.019129084,0.051180022
+10,BDFFP (Vismia),clearing and regrowth,disturbed,hetero.frac,1.25,NA,NA
+10,BDFFP (Vismia),clearing and regrowth,disturbed,ht.light50,12.52631579,12.00091464,13.05171694
+10,BDFFP (Vismia),clearing and regrowth,disturbed,lahv,48.72445615,46.33732872,51.11158357
+10,BDFFP (Vismia),clearing and regrowth,disturbed,lai,4.97788878,4.793544004,5.162233557
+10,BDFFP (Vismia),clearing and regrowth,disturbed,lai50,9.063157895,8.644404207,9.481911583
+10,BDFFP (Vismia),clearing and regrowth,disturbed,lawh,9.791219106,9.464577367,10.11786085
+10,BDFFP (Vismia),clearing and regrowth,disturbed,max.can.ht,25,NA,NA
+10,BDFFP (Vismia),clearing and regrowth,disturbed,mean.can.ht,14.9616793,14.45235828,15.47100033
+10,BDFFP (Vismia),clearing and regrowth,disturbed,sd.can.ht,2.466805426,2.206711389,2.726899464
+11,TNF K83,clearing and regrowth,control,ERR,0.502488765,0.435513561,0.56946397
+11,TNF K83,clearing and regrowth,control,gap.frac,0.008333333,-0.008,0.024666667
+11,TNF K83,clearing and regrowth,control,hetero.frac,1.1,NA,NA
+11,TNF K83,clearing and regrowth,control,ht.light50,19.83333333,17.25927236,22.40739431
+11,TNF K83,clearing and regrowth,control,lahv,91.63485446,75.37316626,107.8965427
+11,TNF K83,clearing and regrowth,control,lai,5.958381624,5.400373625,6.516389623
+11,TNF K83,clearing and regrowth,control,lai50,14.33333333,12.44389646,16.22277021
+11,TNF K83,clearing and regrowth,control,lawh,15.16141811,13.34743143,16.97540479
+11,TNF K83,clearing and regrowth,control,max.can.ht,41,NA,NA
+11,TNF K83,clearing and regrowth,control,mean.can.ht,23.92544017,20.72841703,27.12246331
+11,TNF K83,clearing and regrowth,control,sd.can.ht,4.42314649,3.386821035,5.459471944
+11,TNF K81,clearing and regrowth,disturbed,ERR,0.607987425,0.529299636,0.686675213
+11,TNF K81,clearing and regrowth,disturbed,gap.frac,0.005555556,-0.005333333,0.016444444
+11,TNF K81,clearing and regrowth,disturbed,hetero.frac,1.2,NA,NA
+11,TNF K81,clearing and regrowth,disturbed,ht.light50,14.77777778,13.18881622,16.36673934
+11,TNF K81,clearing and regrowth,disturbed,lahv,67.35764259,58.81346252,75.90182266
+11,TNF K81,clearing and regrowth,disturbed,lai,5.825290866,5.448314664,6.202267069
+11,TNF K81,clearing and regrowth,disturbed,lai50,10.44444444,9.378863843,11.51002505
+11,TNF K81,clearing and regrowth,disturbed,lawh,11.40991957,10.48673988,12.33309927
+11,TNF K81,clearing and regrowth,disturbed,max.can.ht,31,NA,NA
+11,TNF K81,clearing and regrowth,disturbed,mean.can.ht,17.90503692,16.11885902,19.69121482
+11,TNF K81,clearing and regrowth,disturbed,sd.can.ht,3.95396042,3.091197435,4.816723405
+NA,Alter do Chão,savanna,NA,ERR,0.404040292,0.36233971,0.445740874
+NA,Alter do Chão,savanna,NA,gap.frac,0.639583333,0.576529631,0.702637035
+NA,Alter do Chão,savanna,NA,hetero.frac,7,NA,NA
+NA,Alter do Chão,savanna,NA,ht.light50,2.6875,2.063978593,3.311021407
+NA,Alter do Chão,savanna,NA,lahv,2.083881452,1.614359529,2.553403375
+NA,Alter do Chão,savanna,NA,lai,0.361050094,0.288204087,0.433896101
+NA,Alter do Chão,savanna,NA,lai50,4.583333333,4.151193953,5.015472714
+NA,Alter do Chão,savanna,NA,lawh,5.306117274,4.98059236,5.631642188
+NA,Alter do Chão,savanna,NA,max.can.ht,12,NA,NA
+NA,Alter do Chão,savanna,NA,mean.can.ht,2.584998719,2.204281924,2.965715513
+NA,Alter do Chão,savanna,NA,sd.can.ht,2.386936618,2.149249746,2.62462349
